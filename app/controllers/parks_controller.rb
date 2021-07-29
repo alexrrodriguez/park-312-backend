@@ -1,7 +1,7 @@
 class ParksController < ApplicationController
 
   def index
-    parks = Park.all
+    parks = Park.all.order(name: :asc)
     render json: parks.as_json
   end
 
