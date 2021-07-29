@@ -9,4 +9,7 @@ Rails.application.routes.draw do
   patch "/parks/:id" => "parks#update"
 
   delete "/parks/:id" => "parks#destroy"
+
+  post "/users" => "users#create"
+
 end
