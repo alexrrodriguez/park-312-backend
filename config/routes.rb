@@ -26,7 +26,7 @@ Rails.application.routes.draw do
 
   post "/park_events" => "park_events#create"
 
-  # get "/park_events/:id" => "park_events#show"
+  get "/park_events/:id" => "park_events#show"
 
   # patch "/park_events/:id" => "park_events#update"
 

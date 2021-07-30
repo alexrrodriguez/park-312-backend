@@ -1,7 +1,7 @@
 class ParkEventsController < ApplicationController
 
   def index
-    park_events = ParkEvent.all
+    park_events = current_user.park_events
     render json: park_events.as_json
   end
 
@@ -18,10 +18,10 @@ class ParkEventsController < ApplicationController
     render json: park_events.as_json
   end
 
-  # def show
-  #   park = Park.find_by(id: params[:id])
-  #   render json: park.as_json
-  # end
+  def show
+    park_event = ParkEvent.find_by(id: params[:id])
+    render json: park_event.as_json
+  end
 
   # def update
   #   park = Park.find_by(id: params[:id])
