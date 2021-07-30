@@ -43,4 +43,29 @@ class ParksController < ApplicationController
     render json: {message: "Park successfully deleted."}
   end
 
+  def search
+    district = params[:district]
+    facility = params[:facility]
+    indoor = params[:indoor]
+    outdoor = params[:outdoor]
+
+    if outdoor == "yes" && indoor == "" && facility == "" && district == ""
+      parks = Park.where("outdoor = ?", "YES")
+      render json: parks
+    elsif indoor == "yes" && outdoor == "" && facility == "" && district == ""
+      parks = Park.where("indoor = ?", "YES")
+      render json: parks
+    elsif facility == "" && district == ""
+      parks = Park.all
+      render json: parks
+    elsif district == ""
+      parks = Park.where("facility = ?", params[:facility])
+      render json: parks
+    elsif facility == ""
+      parks = Park.where("district = ?", params[:district])
+      render json: parks
+    end
+
+  end
+
 end
