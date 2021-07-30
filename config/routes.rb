@@ -28,8 +28,8 @@ Rails.application.routes.draw do
 
   get "/park_events/:id" => "park_events#show"
 
-  # patch "/park_events/:id" => "park_events#update"
+  patch "/park_events/:id" => "park_events#update"
 
-  # delete "/park_events/:id" => "park_events#destroy"
+  delete "/park_events/:id" => "park_events#destroy"
 
 end

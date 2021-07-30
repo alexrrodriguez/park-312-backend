@@ -2,7 +2,7 @@ class ParksController < ApplicationController
 
   def index
     parks = Park.all.order(name: :asc)
-    render json: parks.as_json
+    render json: parks
   end
 
   def create
@@ -16,12 +16,12 @@ class ParksController < ApplicationController
       image: params[:image]
     )
     park.save
-    render json: park.as_json
+    render json: park
   end
 
   def show
     park = Park.find_by(id: params[:id])
-    render json: park.as_json
+    render json: park
   end
 
   def update
@@ -34,7 +34,7 @@ class ParksController < ApplicationController
     park.outdoor = params[:outdoor] || park.outdoor
     park.image = params[:image] || park.image
     park.save
-    render json: park.as_json
+    render json: park
   end
 
   def destroy

@@ -2,7 +2,7 @@ class ParkEventsController < ApplicationController
 
   def index
     park_events = current_user.park_events
-    render json: park_events.as_json
+    render json: park_events
   end
 
   def create
@@ -15,31 +15,27 @@ class ParkEventsController < ApplicationController
       attending: params[:attending]
     )
     park_events.save
-    render json: park_events.as_json
+    render json: park_events
   end
 
   def show
     park_event = ParkEvent.find_by(id: params[:id])
-    render json: park_event.as_json
+    render json: park_event
   end
 
-  # def update
-  #   park = Park.find_by(id: params[:id])
-  #   park.name = params[:name] || park.name
-  #   park.district = params[:district] || park.district
-  #   park.address = params[:address] || park.address
-  #   park.facility = params[:facility] || park.facility
-  #   park.indoor = params[:indoor] || park.indoor
-  #   park.outdoor = params[:outdoor] || park.outdoor
-  #   park.image = params[:image] || park.image
-  #   park.save
-  #   render json: park.as_json
-  # end
+  def update
+    park_event = ParkEvent.find_by(id: params[:id])
+    park_event.date = params[:date] || park_event.date
+    park_event.time = params[:time] || park_event.time
+    park_event.attending = params[:attending] || park_event.attending
+    park_event.save
+    render json: park_event
+  end
 
-  # def destroy
-  #   park = Park.find_by(id: params[:id])
-  #   park.destroy
-  #   render json: {message: "Park successfully deleted."}
-  # end
+  def destroy
+    park_event = ParkEvent.find_by(id: params[:id])
+    park_event.destroy
+    render json: {message: "Park Event successfully deleted."}
+  end
 
 end
