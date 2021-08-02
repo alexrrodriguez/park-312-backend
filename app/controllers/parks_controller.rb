@@ -13,7 +13,8 @@ class ParksController < ApplicationController
       facility: params[:facility],
       indoor: params[:indoor],
       outdoor: params[:outdoor],
-      image: params[:image]
+      image: params[:image],
+      hours: params[:hours]
     )
     park.save
     render json: park
@@ -33,6 +34,7 @@ class ParksController < ApplicationController
     park.indoor = params[:indoor] || park.indoor
     park.outdoor = params[:outdoor] || park.outdoor
     park.image = params[:image] || park.image
+    park.hours = params[:hours] || park.hours
     park.save
     render json: park
   end

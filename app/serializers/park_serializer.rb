@@ -1,3 +1,3 @@
 class ParkSerializer < ActiveModel::Serializer
-  attributes :id, :name, :district, :address, :facility, :indoor, :outdoor, :image
+  attributes :id, :name, :district, :address, :facility, :indoor, :outdoor, :image, :hours
 end
