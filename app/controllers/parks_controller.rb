@@ -51,23 +51,26 @@ class ParksController < ApplicationController
     indoor = params[:indoor]
     outdoor = params[:outdoor]
 
-    if outdoor == "yes" && indoor == "" && facility == "" && district == ""
+    if facility == "" && district == "" && indoor == "" && outdoor == ""
+      parks = Park.all
+      render json: parks
+    elsif district == "" && indoor == "" && outdoor == ""
+      parks = Park.where("facility = ?", params[:facility])
+      render json: parks
+    elsif facility == "" && indoor == "" && outdoor == ""
+      parks = Park.where("district = ?", params[:district])
+      render json: parks
+    elsif indoor == "" && outdoor == ""
+      parks = Park.where("facility = ? AND district = ?", params[:facility], params[:district])
+      render json: parks
+    elsif outdoor == "yes" && indoor == "" && facility == "" && district == ""
       parks = Park.where("outdoor = ?", "YES")
       render json: parks
     elsif indoor == "yes" && outdoor == "" && facility == "" && district == ""
       parks = Park.where("indoor = ?", "YES")
       render json: parks
-    elsif facility == "" && district == ""
-      parks = Park.all
-      render json: parks
-    elsif district == ""
-      parks = Park.where("facility = ?", params[:facility])
-      render json: parks
-    elsif facility == ""
-      parks = Park.where("district = ?", params[:district])
-      render json: parks
     end
-
+    
   end
 
 end
