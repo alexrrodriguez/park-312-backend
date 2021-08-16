@@ -9,6 +9,7 @@ class ParkEventsController < ApplicationController
     park_events = ParkEvent.new(
       user_id: current_user.id,
       name: params[:name],
+      event_name: params[:event_name],
       park_id: params[:park_id],
       facility: params[:facility],
       date: params[:date],
@@ -27,6 +28,7 @@ class ParkEventsController < ApplicationController
   def update
     park_event = ParkEvent.find_by(id: params[:id])
     park_event.facility = params[:facility] || park_event.facility
+    park_event.event_name = params[:event_name] || park_event.event_name
     park_event.date = params[:date] || park_event.date
     park_event.time = params[:time] || park_event.time
     park_event.attending = params[:attending] || park_event.attending
