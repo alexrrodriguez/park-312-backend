@@ -18,5 +18,16 @@ class UsersController < ApplicationController
       render json: { errors: user.errors.full_messages }, status: :bad_request
     end
   end
+
+  def update
+    user = User.find_by(id: params[:id])
+    user.name = params[:name] || user.name
+    user.email = params[:email] || user.email
+    if user.save
+      render json: user
+    else 
+      render json: { errors: user.errors.full_messages }, status: :bad_request
+    end
+  end
   
 end

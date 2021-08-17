@@ -22,6 +22,8 @@ Rails.application.routes.draw do
 
   post "/sessions" => "sessions#create"
 
+  patch "/users/:id" => "users#update"
+
   # park_events routes
 
   get "/park_events" => "park_events#index"
