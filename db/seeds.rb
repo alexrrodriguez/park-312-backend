@@ -1330,18 +1330,6 @@ Chicago, IL 60653", facility: "GYMNASIUM", indoor: "YES", outdoor: "NO", image: 
 park = Park.create!({name: "ELLIS (SAMUEL)", district: "SOUTH SIDE", address: "3520 S. Cottage Grove Ave.
 Chicago, IL 60653", facility: "POOL", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/059cb9e1bebf4815a2f6185110ff79641.JPG?itok=CHfwZ2uo", hours: "6:00 AM - 9:00 PM"})
 
-park = Park.create!({name: "EMMERSON (LOUIS)", district: "FAR NORTH SIDE", address: "1820 W. Granville Ave.
-Chicago, IL 60660", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/3c2cff6fb969460ab91aec32f0eefe8e1.jpg?itok=WhJ5WyRK", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "EMMERSON (LOUIS)", district: "FAR NORTH SIDE", address: "1820 W. Granville Ave.
-Chicago, IL 60660", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/3c2cff6fb969460ab91aec32f0eefe8e1.jpg?itok=WhJ5WyRK", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "EMMERSON (LOUIS)", district: "FAR NORTH SIDE", address: "1820 W. Granville Ave.
-Chicago, IL 60660", facility: "TENNIS", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/3c2cff6fb969460ab91aec32f0eefe8e1.jpg?itok=WhJ5WyRK", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "ESSEX", district: "SOUTH SIDE", address: "7687 S. Chicago Ave.
-Chicago, IL 60619", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/ec74fb5a968b47f8966b372f0e94cae81.JPG?itok=8yZ6Gk5G", hours: "6:00 AM - 11:00 PM"})
-
 park = Park.create!({name: "EUCLID", district: "FAR SOUTHEAST SIDE", address: "9800 S. Parnell Ave.
 Chicago, IL 60628", facility: "FOOTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/d3ecf4d349b548be9622d4602b0dd7011.JPG?itok=Rd8w2pqH", hours: "7:00 AM - 11:00 PM"})
 
@@ -1669,18 +1657,6 @@ Chicago, IL 60613", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "
 park = Park.create!({name: "GILL (JOSEPH)", district: "NORTH SIDE", address: "825 W. Sheridan Rd.
 Chicago, IL 60613", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/Gill%20Park-%20Playground%202018%20-59-.JPG?itok=4f78Wpu_", hours: "6:00 AM - 11:00 PM"})
 
-park = Park.create!({name: "GLADSTONE (WILLIAM)", district: "FAR NORTH SIDE", address: "5421 N. Menard Ave.
-Chicago, IL 60630", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/800e610b3626409fa3717b6199f06cb01.jpg?itok=K3wOuIH_", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "GLADSTONE (WILLIAM)", district: "FAR NORTH SIDE", address: "5421 N. Menard Ave.
-Chicago, IL 60630", facility: "BASEBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/800e610b3626409fa3717b6199f06cb01.jpg?itok=K3wOuIH_", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "GLADSTONE (WILLIAM)", district: "FAR NORTH SIDE", address: "5421 N. Menard Ave.
-Chicago, IL 60630", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/800e610b3626409fa3717b6199f06cb01.jpg?itok=K3wOuIH_", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "GLADSTONE (WILLIAM)", district: "FAR NORTH SIDE", address: "5421 N. Menard Ave.
-Chicago, IL 60630", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/800e610b3626409fa3717b6199f06cb01.jpg?itok=K3wOuIH_", hours: "6:00 AM - 11:00 PM"})
-
 park = Park.create!({name: "GOLDEN GATE", district: "FAR SOUTHEAST SIDE", address: "13000 S. Eberhart Ave.
 Chicago, IL 60627", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/973fa9f20ce3440bad22569b9b9c25771.JPG?itok=q7MZNJdR", hours: "6:00 AM - 11:00 PM"})
 
@@ -1725,9 +1701,6 @@ Chicago, IL 60630", facility: "ROLLER COURT", indoor: "NO", outdoor: "YES", imag
 
 park = Park.create!({name: "GOMPERS (SAMUEL)", district: "FAR NORTH SIDE", address: "4222 W. Foster Ave.
 Chicago, IL 60630", facility: "TENNIS", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/66c143a7f0c148fdbb81e74428aaa5451.jpg?itok=8Dby2-zB", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "GOOSEBERRY", district: "FAR NORTH SIDE", address: "4648 N. Malden St.
-Chicago, IL 60640", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/9bcc3ca9307c4abd80a8f845875c24e11.JPG?itok=jg7UKDOn", hours: "6:00 AM - 11:00 PM"})
 
 park = Park.create!({name: "GRAND CROSSING", district: "SOUTH SIDE", address: "7655 S. Ingleside Ave.
 Chicago, IL 60619", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/6cec8b46bd314fe4b0547649d2a4fb611.JPG?itok=3Zq_1EPV", hours: "7:00 AM - 11:00 PM"})
@@ -1801,12 +1774,6 @@ Chicago, IL 60643", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image:
 park = Park.create!({name: "GRAVER (PHILIP)", district: "FAR SOUTHWEST SIDE", address: "1518 W. 102nd Pl.
 Chicago, IL 60643", facility: "TENNIS", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/0a9062c3eb4341bdb9b785b6c043f9431.JPG?itok=lirzchVk", hours: "6:00 AM - 11:00 PM"})
 
-park = Park.create!({name: "GREEN (JEFFREY)", district: "FAR NORTH SIDE", address: "6500 N. Algonquin Ave.
-Chicago, IL 60646", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/634531442201463e80cc49d14342d2481.jpg?itok=qlbjWhfr", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "GREEN (JEFFREY)", district: "FAR NORTH SIDE", address: "6500 N. Algonquin Ave.
-Chicago, IL 60646", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/634531442201463e80cc49d14342d2481.jpg?itok=qlbjWhfr", hours: "6:00 AM - 9:00 PM"})
-
 park = Park.create!({name: "GREEN BRIAR", district: "FAR NORTH SIDE", address: "2650 W. Peterson Ave.
 Chicago, IL 60659", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/0a4f5ad36ecf4fdba35a9e2ee81c149b1.jpg?itok=kIO3cHTT", hours: "6:00 AM - 11:00 PM"})
 
@@ -1828,44 +1795,8 @@ Chicago, IL 60659", facility: "TENNIS", indoor: "NO", outdoor: "YES", image: "ht
 park = Park.create!({name: "GREEN BRIAR", district: "FAR NORTH SIDE", address: "2650 W. Peterson Ave.
 Chicago, IL 60659", facility: "COMMUNITY GARDEN", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/0a4f5ad36ecf4fdba35a9e2ee81c149b1.jpg?itok=kIO3cHTT", hours: "6:00 AM - 11:00 PM"})
 
-park = Park.create!({name: "GREENBAUM (HENRY)", district: "WEST SIDE", address: "4300 W. Wabansia Ave.
-Chicago, IL 60639", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/05671be5db534bef8489f86296bce2201.JPG?itok=2To6F0Yt", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "GREENBAUM (HENRY)", district: "WEST SIDE", address: "4300 W. Wabansia Ave.
-Chicago, IL 60639", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/05671be5db534bef8489f86296bce2201.JPG?itok=2To6F0Yt", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "GREENBAUM (HENRY)", district: "WEST SIDE", address: "4300 W. Wabansia Ave.
-Chicago, IL 60639", facility: "TURF FIELD", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/05671be5db534bef8489f86296bce2201.JPG?itok=2To6F0Yt", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "GREENBAUM (HENRY)", district: "WEST SIDE", address: "4300 W. Wabansia Ave.
-Chicago, IL 60639", facility: "BASEBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/05671be5db534bef8489f86296bce2201.JPG?itok=2To6F0Yt", hours: "6:00 AM - 11:00 PM"})
-
 park = Park.create!({name: "GRIFFIN (MARION MAHONY) BEACH", district: "FAR NORTH SIDE", address: "1208 W. Jarvis Ave.
 Chicago, IL 60626", facility: "BEACH", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/cb3c590e749446d59a907abab16f2def1.jpg?itok=Pe2os9PM", hours: "11:00 AM - 7:00 PM"})
-
-park = Park.create!({name: "GROSS (THEODORE)", district: "FAR NORTH SIDE", address: "2708 W. Lawrence Ave.
-Chicago, IL 60625", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/c8dd91389f0b47c7b0cea787be2fe52b1.JPG?itok=njYetmKp", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "GROSS (THEODORE)", district: "FAR NORTH SIDE", address: "2708 W. Lawrence Ave.
-Chicago, IL 60625", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/c8dd91389f0b47c7b0cea787be2fe52b1.JPG?itok=njYetmKp", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "GROSS (THEODORE)", district: "FAR NORTH SIDE", address: "2708 W. Lawrence Ave.
-Chicago, IL 60625", facility: "FOOTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/c8dd91389f0b47c7b0cea787be2fe52b1.JPG?itok=njYetmKp", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "GROSS (THEODORE)", district: "FAR NORTH SIDE", address: "2708 W. Lawrence Ave.
-Chicago, IL 60625", facility: "SOCCER", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/c8dd91389f0b47c7b0cea787be2fe52b1.JPG?itok=njYetmKp", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "HAAS (JOSEPH)", district: "NORTH SIDE", address: "2402 N. Washtenaw Ave.
-Chicago, IL 60647", facility: "TURF FIELD", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/26f1ea475fe54441b41d622d778b0ed81.jpg?itok=HHWtWAAR", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "HAAS (JOSEPH)", district: "NORTH SIDE", address: "2402 N. Washtenaw Ave.
-Chicago, IL 60647", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/26f1ea475fe54441b41d622d778b0ed81.jpg?itok=HHWtWAAR", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "HAAS (JOSEPH)", district: "NORTH SIDE", address: "2402 N. Washtenaw Ave.
-Chicago, IL 60647", facility: "GYMNASIUM", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/26f1ea475fe54441b41d622d778b0ed81.jpg?itok=HHWtWAAR", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "HAAS (JOSEPH)", district: "NORTH SIDE", address: "2402 N. Washtenaw Ave.
-Chicago, IL 60647", facility: "FITNESS CENTER", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/26f1ea475fe54441b41d622d778b0ed81.jpg?itok=HHWtWAAR", hours: "6:00 AM - 11:00 PM"})
 
 park = Park.create!({name: "HALE (NATHAN)", district: "SOUTHWEST SIDE", address: "6258 W. 62nd St.
 Chicago, IL 60638", facility: "FOOTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/4d720e0ab0f1405e8d5ab0e608c9fb251.JPG?itok=xY_sYtJo", hours: "6:00 AM - 11:00 PM"})
@@ -1953,15 +1884,6 @@ Chicago, IL 60618", facility: "TENNIS", indoor: "NO", outdoor: "YES", image: "ht
 
 park = Park.create!({name: "HAMLIN (HANNIBAL)", district: "NORTH SIDE", address: "3035 N. Hoyne Ave.
 Chicago, IL 60618", facility: "BOXING", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/7081d78fdb034742b6857465db0f7cb31.jpg?itok=XVWeIQiS", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "HARDING (GEORGE)", district: "SOUTH SIDE", address: "4912 S. Calumet Ave.
-Chicago, IL 60615", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/cbaa62ee6d594ea4958b01281aab18ec1.jpg?itok=H2kjO1F8", hours: "8:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "HARDING (GEORGE)", district: "SOUTH SIDE", address: "4912 S. Calumet Ave.
-Chicago, IL 60615", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/cbaa62ee6d594ea4958b01281aab18ec1.jpg?itok=H2kjO1F8", hours: "8:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "HARDING (GEORGE)", district: "SOUTH SIDE", address: "4912 S. Calumet Ave.
-Chicago, IL 60615", facility: "VOLLEYBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/cbaa62ee6d594ea4958b01281aab18ec1.jpg?itok=H2kjO1F8", hours: "8:00 AM - 9:00 PM"})
 
 park = Park.create!({name: "HARRIS (HARRIET)", district: "SOUTH SIDE", address: "6200 S. Drexel Ave.
 Chicago, IL 60637", facility: "FITNESS CENTER", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/4260e039e0b44b5f8ed76014f920868f1.JPG?itok=RjAqaDL1", hours: "9:00 AM - 7:00 PM"})
@@ -2119,18 +2041,6 @@ Chicago, IL 60634", facility: "ROLLER COURT", indoor: "NO", outdoor: "YES", imag
 park = Park.create!({name: "HIAWATHA", district: "NORTHWEST SIDE", address: "8029 W. Forest Preserve Ave.
 Chicago, IL 60634", facility: "TENNIS", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/e3d7ef06d069454dafadd24e870f7f191.jpg?itok=wz7O83-v", hours: "6:00 AM - 11:00 PM"})
 
-park = Park.create!({name: "HOARD (EDISON)", district: "SOUTH SIDE", address: "7201 S. Dobson Ave.
-Chicago, IL 60619", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/282e301b713c400db8c3ba04ab27204d1.jpg?itok=j7gH4Ziu", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "HOARD (EDISON)", district: "SOUTH SIDE", address: "7201 S. Dobson Ave.
-Chicago, IL 60619", facility: "BASEBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/282e301b713c400db8c3ba04ab27204d1.jpg?itok=j7gH4Ziu", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "HOARD (EDISON)", district: "SOUTH SIDE", address: "7201 S. Dobson Ave.
-Chicago, IL 60619", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/282e301b713c400db8c3ba04ab27204d1.jpg?itok=j7gH4Ziu", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "HOARD (EDISON)", district: "SOUTH SIDE", address: "7201 S. Dobson Ave.
-Chicago, IL 60619", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/282e301b713c400db8c3ba04ab27204d1.jpg?itok=j7gH4Ziu", hours: "6:00 AM - 9:00 PM"})
-
 park = Park.create!({name: "HOLLYWOOD", district: "FAR NORTH SIDE", address: "3312 W. Thorndale Ave.
 Chicago, IL 60659", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/fc6d899b6ed84fe0b15a272f780942001.jpg?itok=4PXDBVll", hours: "6:00 AM - 11:00 PM"})
 
@@ -2175,18 +2085,6 @@ Chicago, IL 60624", facility: "POOL", indoor: "YES", outdoor: "NO", image: "http
 
 park = Park.create!({name: "HOMAN SQUARE COMMUNITY CENTER", district: "WEST SIDE", address: "3559 W. Arthington
 Chicago, IL 60624", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/Homan%20Square6%20-2--1.jpg?itok=U0e8HWzH", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "HORAN (ALBERT)", district: "WEST SIDE", address: "3035 W. Van Buren St.
-Chicago, IL 60612", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/horan_park_slideshow02.jpg?itok=jgurS9wB", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "HORAN (ALBERT)", district: "WEST SIDE", address: "3035 W. Van Buren St.
-Chicago, IL 60612", facility: "BASEBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/horan_park_slideshow02.jpg?itok=jgurS9wB", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "HORAN (ALBERT)", district: "WEST SIDE", address: "3035 W. Van Buren St.
-Chicago, IL 60612", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/horan_park_slideshow02.jpg?itok=jgurS9wB", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "HORAN (ALBERT)", district: "WEST SIDE", address: "3035 W. Van Buren St.
-Chicago, IL 60612", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/horan_park_slideshow02.jpg?itok=jgurS9wB", hours: "6:00 AM - 9:00 PM"})
 
 park = Park.create!({name: "HORNER (HENRY)", district: "NORTHWEST SIDE", address: "2741 W. Montrose Ave.
 Chicago, IL 60618", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/60323cabf07e4f20af45a7f80d5460ed1.jpg?itok=yuguOEqv", hours: "6:00 AM - 11:00 PM"})
@@ -2244,15 +2142,6 @@ Chicago, IL 60608", facility: "VOLLEYBALL", indoor: "NO", outdoor: "YES", image:
 
 park = Park.create!({name: "HOYNE (THOMAS)", district: "SOUTHWEST SIDE", address: "3417 S. Hamiltion Ave.
 Chicago, IL 60608", facility: "HORSESHOE", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/68fda1a45528436a862ab0dbe61934601.jpg?itok=pnnOv345", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "HUBBARD (GURDON)", district: "WEST SIDE", address: "4942-58 W. Hubbard St.
-Chicago, IL 60644", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/aafc4c1ff6d14cfdb5c92651d80897651.JPG?itok=bop1ppOT", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "HUBBARD (GURDON)", district: "WEST SIDE", address: "4942-58 W. Hubbard St.
-Chicago, IL 60644", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/aafc4c1ff6d14cfdb5c92651d80897651.JPG?itok=bop1ppOT", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "HUCKLEBERRY", district: "SOUTH SIDE", address: "6200 S. Kimbark Ave.
-Chicago, IL 60637", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/ad0f94f7718a47cc9e8dc0f5d0ff99141.JPG?itok=-SU3xW3c", hours: "6:00 AM - 9:00 PM"})
 
 park = Park.create!({name: "HUMBOLDT (ALEXANDER VON)", district: "WEST SIDE", address: "1440 N. Humboldt Boulevard
 Chicago, IL 60622", facility: "TURF FIELD", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/humbolt%20exterior%20Cprimeau-3-3.jpg?itok=WJbqtQbM", hours: "6:00 AM - 11:00 PM"})
@@ -2323,30 +2212,6 @@ Chicago, IL 60618", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image:
 park = Park.create!({name: "INDEPENDENCE", district: "NORTHWEST SIDE", address: "3945 N. Springfield Ave.
 Chicago, IL 60618", facility: "TENNIS", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/64f7e5f3cf914a008e29a3bf1026894b1.JPG?itok=CUEG3AOk", hours: "6:00 AM - 11:00 PM"})
 
-park = Park.create!({name: "INDIAN BOUNDARY", district: "FAR NORTH SIDE", address: "2500 W. Lunt Ave.
-Chicago, IL 60645", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/Indian_Boundary_Park.JPG?itok=6f-lj0hI", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "INDIAN BOUNDARY", district: "FAR NORTH SIDE", address: "2500 W. Lunt Ave.
-Chicago, IL 60645", facility: "VOLLEYBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/Indian_Boundary_Park.JPG?itok=6f-lj0hI", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "INDIAN BOUNDARY", district: "FAR NORTH SIDE", address: "2500 W. Lunt Ave.
-Chicago, IL 60645", facility: "TENNIS", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/Indian_Boundary_Park.JPG?itok=6f-lj0hI", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "INDIAN BOUNDARY", district: "FAR NORTH SIDE", address: "2500 W. Lunt Ave.
-Chicago, IL 60645", facility: "COMMUNITY GARDEN", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/Indian_Boundary_Park.JPG?itok=6f-lj0hI", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "INDIAN ROAD", district: "FAR NORTH SIDE", address: "6010 W. Matson Ave.
-Chicago, IL 60646", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/1eacc40299ce45bebc0e7585d700cc6d1.jpg?itok=ZLTMIADc", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "INDIAN ROAD", district: "FAR NORTH SIDE", address: "6010 W. Matson Ave.
-Chicago, IL 60646", facility: "BASEBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/1eacc40299ce45bebc0e7585d700cc6d1.jpg?itok=ZLTMIADc", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "INDIAN ROAD", district: "FAR NORTH SIDE", address: "6010 W. Matson Ave.
-Chicago, IL 60646", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/1eacc40299ce45bebc0e7585d700cc6d1.jpg?itok=ZLTMIADc", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "INDIAN ROAD", district: "FAR NORTH SIDE", address: "6010 W. Matson Ave.
-Chicago, IL 60646", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/1eacc40299ce45bebc0e7585d700cc6d1.jpg?itok=ZLTMIADc", hours: "6:00 AM - 11:00 PM"})
-
 park = Park.create!({name: "JACKSON (ANDREW)", district: "SOUTH SIDE", address: "6401 S. Stony Island Ave.
 Chicago, IL 60637", facility: "TENNIS", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/jackson-fieldhouse.jpg?itok=6z8vu4Vm", hours: "6:00 AM - 9:00 PM"})
 
@@ -2411,15 +2276,6 @@ park = Park.create!({name: "JEFFERSON (THOMAS) MEML.", district: "FAR NORTH SIDE
 Chicago, IL 60630", facility: "VOLLEYBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/7b8416660f3342b9a18a4763c58e31831.jpg?itok=sG88e4LK", hours: "6:00 AM - 11:00 PM"})
 
 park = Park.create!({name: "JENSEN (CHRIST)", district: "FAR NORTH SIDE", address: "4650 N. Lawndale Ave.
-Chicago, IL 60625", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/jensen%20park-%20nov%202017%20%281%29_0.JPG?itok=Z28PEcdG", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "JENSEN (CHRIST)", district: "FAR NORTH SIDE", address: "4650 N. Lawndale Ave.
-Chicago, IL 60625", facility: "FOOTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/jensen%20park-%20nov%202017%20%281%29_0.JPG?itok=Z28PEcdG", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "JENSEN (CHRIST)", district: "FAR NORTH SIDE", address: "4650 N. Lawndale Ave.
-Chicago, IL 60625", facility: "SOCCER", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/jensen%20park-%20nov%202017%20%281%29_0.JPG?itok=Z28PEcdG", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "JENSEN (CHRIST)", district: "FAR NORTH SIDE", address: "4650 N. Lawndale Ave.
 Chicago, IL 60625", facility: "BASEBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/jensen%20park-%20nov%202017%20%281%29_0.JPG?itok=Z28PEcdG", hours: "6:00 AM - 11:00 PM"})
 
 park = Park.create!({name: "JENSEN (CHRIST)", district: "FAR NORTH SIDE", address: "4650 N. Lawndale Ave.
@@ -2430,51 +2286,6 @@ Chicago, IL 60625", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image:
 
 park = Park.create!({name: "JENSEN (CHRIST)", district: "FAR NORTH SIDE", address: "4650 N. Lawndale Ave.
 Chicago, IL 60625", facility: "GYMNASIUM", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/jensen%20park-%20nov%202017%20%281%29_0.JPG?itok=Z28PEcdG", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "JONQUIL", district: "NORTH SIDE", address: "1001 W. Wrightwood Ave.
-Chicago, IL 60614", facility: "BASEBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/9931676fbc284896892978473bb89db61.jpg?itok=VSDGVDGG", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "JONQUIL", district: "NORTH SIDE", address: "1001 W. Wrightwood Ave.
-Chicago, IL 60614", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/9931676fbc284896892978473bb89db61.jpg?itok=VSDGVDGG", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "JONQUIL", district: "NORTH SIDE", address: "1001 W. Wrightwood Ave.
-Chicago, IL 60614", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/9931676fbc284896892978473bb89db61.jpg?itok=VSDGVDGG", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "JONQUIL", district: "NORTH SIDE", address: "1001 W. Wrightwood Ave.
-Chicago, IL 60614", facility: "TENNIS", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/9931676fbc284896892978473bb89db61.jpg?itok=VSDGVDGG", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "KEDVALE", district: "WEST SIDE", address: "4134 W. Hirsch St.
-Chicago, IL 60651", facility: "TURF FIELD", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/Kedvale5%20-2--1.jpg?itok=LhDyNaWZ", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "KEDVALE", district: "WEST SIDE", address: "4134 W. Hirsch St.
-Chicago, IL 60651", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/Kedvale5%20-2--1.jpg?itok=LhDyNaWZ", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "KEDVALE", district: "WEST SIDE", address: "4134 W. Hirsch St.
-Chicago, IL 60651", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/Kedvale5%20-2--1.jpg?itok=LhDyNaWZ", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "KEDVALE", district: "WEST SIDE", address: "4134 W. Hirsch St.
-Chicago, IL 60651", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/Kedvale5%20-2--1.jpg?itok=LhDyNaWZ", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "KELLS (GEORGE)", district: "WEST SIDE", address: "3201 W. Chicago Ave.
-Chicago, IL 60624", facility: "BASEBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/f6dc9127b0464b10a2fba2ae53dfde101.JPG?itok=v58iyE03", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "KELLS (GEORGE)", district: "WEST SIDE", address: "3201 W. Chicago Ave.
-Chicago, IL 60624", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/f6dc9127b0464b10a2fba2ae53dfde101.JPG?itok=v58iyE03", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "KELLS (GEORGE)", district: "WEST SIDE", address: "3201 W. Chicago Ave.
-Chicago, IL 60624", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/f6dc9127b0464b10a2fba2ae53dfde101.JPG?itok=v58iyE03", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "KELLY (EDWARD)", district: "SOUTHWEST SIDE", address: "2725 W. 41st St.
-Chicago, IL 60632", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/5ce65bf90b5c4e9e8490643d09b3c0a41.JPG?itok=V-FbiiCj", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "KELLY (EDWARD)", district: "SOUTHWEST SIDE", address: "2725 W. 41st St.
-Chicago, IL 60632", facility: "BASEBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/5ce65bf90b5c4e9e8490643d09b3c0a41.JPG?itok=V-FbiiCj", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "KELLY (EDWARD)", district: "SOUTHWEST SIDE", address: "2725 W. 41st St.
-Chicago, IL 60632", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/5ce65bf90b5c4e9e8490643d09b3c0a41.JPG?itok=V-FbiiCj", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "KELLY (EDWARD)", district: "SOUTHWEST SIDE", address: "2725 W. 41st St.
-Chicago, IL 60632", facility: "TURF FIELD", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/5ce65bf90b5c4e9e8490643d09b3c0a41.JPG?itok=V-FbiiCj", hours: "6:00 AM - 11:00 PM"})
 
 park = Park.create!({name: "KEN-WELL", district: "NORTHWEST SIDE", address: "2945 N. Kenosha Ave.
 Chicago, IL 60641", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/7fb401a9009b44118f8618419ff46de11.JPG?itok=FR3GFMOA", hours: "6:00 AM - 11:00 PM"})
@@ -2620,15 +2431,6 @@ Chicago, IL 60641", facility: "TENNIS", indoor: "NO", outdoor: "YES", image: "ht
 park = Park.create!({name: "KILBOURN", district: "NORTHWEST SIDE", address: "3501 N. Kilbourn Ave.
 Chicago, IL 60641", facility: "TRACK", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/park/Kilbourn%20Park-1st%20Day%20-31-.JPG?itok=BqkMm1ud", hours: "6:00 AM - 11:00 PM"})
 
-park = Park.create!({name: "KOLMAR", district: "NORTHWEST SIDE", address: "4143 N. Kolmar Ave.
-Chicago, IL 60641", facility: "BASEBALL", indoor: "NO", outdoor: "YES", image: "https://fastly.4sqi.net/img/general/600x600/27268726_oTcqk3VYYCm_l1El24RRLvCTu7f5TN4hhtaqKwJmoOQ.jpg", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "KOLMAR", district: "NORTHWEST SIDE", address: "4143 N. Kolmar Ave.
-Chicago, IL 60641", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "https://fastly.4sqi.net/img/general/600x600/27268726_oTcqk3VYYCm_l1El24RRLvCTu7f5TN4hhtaqKwJmoOQ.jpg", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "KOLMAR", district: "NORTHWEST SIDE", address: "4143 N. Kolmar Ave.
-Chicago, IL 60641", facility: "TURF FIELD", indoor: "NO", outdoor: "YES", image: "https://fastly.4sqi.net/img/general/600x600/27268726_oTcqk3VYYCm_l1El24RRLvCTu7f5TN4hhtaqKwJmoOQ.jpg", hours: "6:00 AM - 11:00 PM"})
-
 park = Park.create!({name: "KOSCIUSZKO (THADEUZ)", district: "NORTHWEST SIDE", address: "2732 N. Avers Ave.
 Chicago, IL 60647", facility: "FOOTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/9718509ff3d448b898932534fe58d82a1.jpg?itok=fj3e4Ms9", hours: "6:00 AM - 9:00 PM"})
 
@@ -2701,18 +2503,6 @@ Chicago, IL 60608", facility: "FOOTBALL", indoor: "NO", outdoor: "YES", image: "
 park = Park.create!({name: "LA VILLITA", district: "WEST SIDE", address: "2800 S. Sacramento Blvd.
 Chicago, IL 60608", facility: "SOCCER", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/3748530ffc3647f3a39fea51d073314e1.jpg?itok=ws_NMggm", hours: "6:00 AM - 11:00 PM"})
 
-park = Park.create!({name: "LAKE MEADOWS", district: "SOUTH SIDE", address: "3117 S. Rhodes Ave.
-Chicago, IL 60616", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/lake_meadows_slideshow03.jpg?itok=kxlVF-ja", hours: "6:00 AM - 7:00 PM"})
-
-park = Park.create!({name: "LAKE MEADOWS", district: "SOUTH SIDE", address: "3117 S. Rhodes Ave.
-Chicago, IL 60616", facility: "FOOTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/lake_meadows_slideshow03.jpg?itok=kxlVF-ja", hours: "6:00 AM - 7:00 PM"})
-
-park = Park.create!({name: "LAKE MEADOWS", district: "SOUTH SIDE", address: "3117 S. Rhodes Ave.
-Chicago, IL 60616", facility: "SOCCER", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/lake_meadows_slideshow03.jpg?itok=kxlVF-ja", hours: "6:00 AM - 7:00 PM"})
-
-park = Park.create!({name: "LAKE MEADOWS", district: "SOUTH SIDE", address: "3117 S. Rhodes Ave.
-Chicago, IL 60616", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/lake_meadows_slideshow03.jpg?itok=kxlVF-ja", hours: "6:00 AM - 7:00 PM"})
-
 park = Park.create!({name: "LAKE SHORE", district: "CENTRAL CHICAGO", address: "808 N. Lake Shore Dr.
 Chicago, IL 60611", facility: "TENNIS", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/Lake_Shore_Park_Slideshow01a.JPG?itok=E5_L-yml", hours: "6:00 AM - 11:00 PM"})
 
@@ -2737,38 +2527,8 @@ Chicago, IL 60611", facility: "TRACK", indoor: "NO", outdoor: "YES", image: "htt
 park = Park.create!({name: "LAKE SHORE", district: "CENTRAL CHICAGO", address: "808 N. Lake Shore Dr.
 Chicago, IL 60611", facility: "COMMUNITY GARDEN", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/Lake_Shore_Park_Slideshow01a.JPG?itok=E5_L-yml", hours: "6:00 AM - 11:00 PM"})
 
-park = Park.create!({name: "LAMB (HAROLD)", district: "FAR SOUTHWEST SIDE", address: "1400 W. 109th St.
-Chicago, IL 60643", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/86092ab90f4d4f4887cc1a0daef41b7f1.JPG?itok=MHSVstD3", hours: "9:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "LAMB (HAROLD)", district: "FAR SOUTHWEST SIDE", address: "1400 W. 109th St.
-Chicago, IL 60643", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/86092ab90f4d4f4887cc1a0daef41b7f1.JPG?itok=MHSVstD3", hours: "9:00 AM - 9:00 PM"})
-
 park = Park.create!({name: "LANE (GEORGE) BEACH", district: "FAR NORTH SIDE", address: "5915 N. Sheridan Rd.
 Chicago, IL 60660", facility: "BEACH", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/20e190dae8bd4260ad0e9d00e30d1c5c1.jpg?itok=Z8L-RApA", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "LANGLEY", district: "FAR SOUTHEAST SIDE", address: "11255 S. Langley Ave.
-Chicago, IL 60628", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/89533e575d974c87af401f9829db30881.JPG?itok=nPH2EBoG", hours: "7:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "LAWLER (MICHAEL)", district: "SOUTHWEST SIDE", address: "5210 W. 64th St.
-Chicago, IL 60638", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/b81e1537cd4446009d39a043edf2a3361.JPG?itok=FzAfawaW", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "LAWLER (MICHAEL)", district: "SOUTHWEST SIDE", address: "5210 W. 64th St.
-Chicago, IL 60638", facility: "FOOTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/b81e1537cd4446009d39a043edf2a3361.JPG?itok=FzAfawaW", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "LAWLER (MICHAEL)", district: "SOUTHWEST SIDE", address: "5210 W. 64th St.
-Chicago, IL 60638", facility: "SOCCER", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/b81e1537cd4446009d39a043edf2a3361.JPG?itok=FzAfawaW", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "LAWLER (MICHAEL)", district: "SOUTHWEST SIDE", address: "5210 W. 64th St.
-Chicago, IL 60638", facility: "HORSESHOE", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/b81e1537cd4446009d39a043edf2a3361.JPG?itok=FzAfawaW", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "LAWLER (MICHAEL)", district: "SOUTHWEST SIDE", address: "5210 W. 64th St.
-Chicago, IL 60638", facility: "BASEBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/b81e1537cd4446009d39a043edf2a3361.JPG?itok=FzAfawaW", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "LAWLER (MICHAEL)", district: "SOUTHWEST SIDE", address: "5210 W. 64th St.
-Chicago, IL 60638", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/b81e1537cd4446009d39a043edf2a3361.JPG?itok=FzAfawaW", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "LAWLER (MICHAEL)", district: "SOUTHWEST SIDE", address: "5210 W. 64th St.
-Chicago, IL 60638", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/b81e1537cd4446009d39a043edf2a3361.JPG?itok=FzAfawaW", hours: "6:00 AM - 11:00 PM"})
 
 park = Park.create!({name: "LE CLAIRE COURTS - HEARST COMM. CTR.", district: "SOUTHWEST SIDE", address: "5120 West 44th Street
 Chicago, IL 60638", facility: "FOOTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/5ad69b0fbdde4c59a46b4bfe8d3ed3771.JPG?itok=Yptw-JT1", hours: "9:00 AM - 6:00 PM"})
@@ -2794,9 +2554,6 @@ Chicago, IL 60638", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image:
 park = Park.create!({name: "LE CLAIRE COURTS - HEARST COMM. CTR.", district: "SOUTHWEST SIDE", address: "5120 West 44th Street
 Chicago, IL 60638", facility: "TENNIS", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/5ad69b0fbdde4c59a46b4bfe8d3ed3771.JPG?itok=Yptw-JT1", hours: "9:00 AM - 6:00 PM"})
 
-park = Park.create!({name: "LEE (JOHN)", district: "FAR SOUTHWEST SIDE", address: "3700 W. 87th St.
-Chicago, IL 60652", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/542f8b7bdce44831a695d9e57f0c23111.JPG?itok=4QTSiMMs", hours: "6:00 AM - 11:00 PM"})
-
 park = Park.create!({name: "LEGION", district: "FAR NORTH SIDE", address: "3100 W. Bryn Mawr Ave.
 Chicago, IL 60659", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/758522eedf464e63870163f3af950bd61.jpg?itok=l6od5Z9W", hours: "6:00 AM - 9:00 PM"})
 
@@ -2821,9 +2578,6 @@ Chicago, IL 60659", facility: "ROLLER COURT", indoor: "NO", outdoor: "YES", imag
 park = Park.create!({name: "LEGION", district: "FAR NORTH SIDE", address: "3100 W. Bryn Mawr Ave.
 Chicago, IL 60659", facility: "TENNIS", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/758522eedf464e63870163f3af950bd61.jpg?itok=l6od5Z9W", hours: "6:00 AM - 9:00 PM"})
 
-park = Park.create!({name: "LELAND GIANTS", district: "SOUTHWEST SIDE", address: "664 W 76th St
-Chicago, IL 60620", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/e507041b4bb44a9386497df7871e8ca51.JPG?itok=1hvWyp50", hours: "6:00 AM - 11:00 PM"})
-
 park = Park.create!({name: "LEONE (SAM) BEACH", district: "FAR NORTH SIDE", address: "1222 W. Touhy Ave.
 Chicago, IL 60626", facility: "BEACH", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/0c1904f608864b9dbd4be325d38ec1f01.JPG?itok=5F8wrV5P", hours: "6:00 AM - 11:00 PM"})
 
@@ -2832,27 +2586,6 @@ Chicago, IL 60626", facility: "GYMNASIUM", indoor: "YES", outdoor: "NO", image: 
 
 park = Park.create!({name: "LEONE (SAM) BEACH", district: "FAR NORTH SIDE", address: "1222 W. Touhy Ave.
 Chicago, IL 60626", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/0c1904f608864b9dbd4be325d38ec1f01.JPG?itok=5F8wrV5P", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "LERNER (LEO)", district: "FAR NORTH SIDE", address: "7000 N. Sacramento Ave.
-Chicago, IL 60645", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/0aaf83b90d90480f8b18306c1e21f1871.JPG?itok=k6KuSpx5", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "LERNER (LEO)", district: "FAR NORTH SIDE", address: "7000 N. Sacramento Ave.
-Chicago, IL 60645", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/0aaf83b90d90480f8b18306c1e21f1871.JPG?itok=k6KuSpx5", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "LERNER (LEO)", district: "FAR NORTH SIDE", address: "7000 N. Sacramento Ave.
-Chicago, IL 60645", facility: "TENNIS", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/0aaf83b90d90480f8b18306c1e21f1871.JPG?itok=k6KuSpx5", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "LEVIN (JOHN)", district: "WEST SIDE", address: "5458 W. Kinzie Pkwy.
-Chicago, IL 60644", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/f4b57e85a9ad498982684e80a1c553961.JPG?itok=bJoD3O1V", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "LEVIN (JOHN)", district: "WEST SIDE", address: "5458 W. Kinzie Pkwy.
-Chicago, IL 60644", facility: "BASEBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/f4b57e85a9ad498982684e80a1c553961.JPG?itok=bJoD3O1V", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "LEVIN (JOHN)", district: "WEST SIDE", address: "5458 W. Kinzie Pkwy.
-Chicago, IL 60644", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/f4b57e85a9ad498982684e80a1c553961.JPG?itok=bJoD3O1V", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "LEVIN (JOHN)", district: "WEST SIDE", address: "5458 W. Kinzie Pkwy.
-Chicago, IL 60644", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/f4b57e85a9ad498982684e80a1c553961.JPG?itok=bJoD3O1V", hours: "6:00 AM - 11:00 PM"})
 
 park = Park.create!({name: "LINCOLN (ABRAHAM)", district: "NORTH SIDE", address: "500-5700 N. Lake Shore Drive
 Chicago, IL 60614", facility: "TURF FIELD", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/94f0126d30dc47c59f7f5ec9d508aa341.JPG?itok=b3I8qIjf", hours: "6:00 AM - 11:00 PM"})
@@ -2932,15 +2665,6 @@ Chicago, IL 60636", facility: "TURF FIELD", indoor: "NO", outdoor: "YES", image:
 park = Park.create!({name: "LINDBLOM (ROBERT)", district: "SOUTHWEST SIDE", address: "6054 S. Damen Ave.
 Chicago, IL 60636", facility: "TRACK", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/c113e9afd56b47e8bafcf737ceab553f1.JPG?itok=_M6K6UV3", hours: "6:00 AM - 11:00 PM"})
 
-park = Park.create!({name: "LIVINGSTON FIELD", district: "WEST SIDE", address: "2139 W. Lexington St.
-Chicago, IL 60612", facility: "TURF FIELD", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/LivingstonField01.jpg?itok=q5HisBD4", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "LIVINGSTON FIELD", district: "WEST SIDE", address: "2139 W. Lexington St.
-Chicago, IL 60612", facility: "BASEBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/LivingstonField01.jpg?itok=q5HisBD4", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "LIVINGSTON FIELD", district: "WEST SIDE", address: "2139 W. Lexington St.
-Chicago, IL 60612", facility: "BASEBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/LivingstonField01.jpg?itok=q5HisBD4", hours: "6:00 AM - 11:00 PM"})
-
 park = Park.create!({name: "LOWE (SAMUEL)", district: "SOUTH SIDE", address: "5203 S. Lowe Ave.
 Chicago, IL 60609", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/e2e2d67cacfc47a595e859b1353ada5b1.JPG?itok=vm17W7QZ", hours: "6:00 AM - 11:00 PM"})
 
@@ -2994,21 +2718,6 @@ Chicago, IL 60609", facility: "BOXING", indoor: "YES", outdoor: "NO", image: "ht
 
 park = Park.create!({name: "LOYOLA", district: "FAR NORTH SIDE", address: "5203 S. Lowe Ave.
 Chicago, IL 60609", facility: "COMMUNITY GARDEN", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/2fff38d06c2743828d41ca693fb9c1e71.jpg?itok=bOQybT0m", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "LUELLA", district: "FAR SOUTHEAST SIDE", address: "10021 S. Luella Ave.
-Chicago, IL 60617", facility: "COMMUNITY GARDEN", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/ed070a79715d430298aa747ea24c2bfb1.JPG?itok=8TMTe5HJ", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "LUELLA", district: "FAR SOUTHEAST SIDE", address: "10021 S. Luella Ave.
-Chicago, IL 60617", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/ed070a79715d430298aa747ea24c2bfb1.JPG?itok=8TMTe5HJ", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "LUELLA", district: "FAR SOUTHEAST SIDE", address: "10021 S. Luella Ave.
-Chicago, IL 60617", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/ed070a79715d430298aa747ea24c2bfb1.JPG?itok=8TMTe5HJ", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "MADIGAN (MICHAEL J., SR.)", district: "SOUTHWEST SIDE", address: "4707 W. Marquette Rd.
-Chicago, IL 60629", facility: "BASEBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/99a92306c9824ebc98de9bf4aa4419b51.JPG?itok=-HGUtwGa", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "MADIGAN (MICHAEL J., SR.)", district: "SOUTHWEST SIDE", address: "4707 W. Marquette Rd.
-Chicago, IL 60629", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/99a92306c9824ebc98de9bf4aa4419b51.JPG?itok=-HGUtwGa", hours: "6:00 AM - 11:00 PM"})
 
 park = Park.create!({name: "MANDRAKE (HENRY BROWN)", district: "SOUTH SIDE", address: "3858 S. Cottage Grove
 Chicago, IL 60653", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/CAN-MandrakePark-Exterior-2015-2.jpg?itok=ffP-0gm3", hours: "6:00 AM - 9:00 PM"})
@@ -3064,9 +2773,6 @@ Chicago, IL 60633", facility: "ROLLER COURT", indoor: "NO", outdoor: "YES", imag
 park = Park.create!({name: "MANN (JAMES)", district: "SOUTH SIDE", address: "3035 E. 130th St.
 Chicago, IL 60633", facility: "TURF FIELD", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/390b7ecc57a149738d8be38a104690fd1.JPG?itok=PJpJVM8w", hours: "6:00 AM - 11:00 PM"})
 
-park = Park.create!({name: "MAPLE", district: "NORTH SIDE", address: "2047 N. Spaulding Ave.
-Chicago, IL 60647", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/b8bf7440f26c485ba431e67f6dd1fefb1.jpg?itok=3tWt2jt2", hours: "6:00 AM - 11:00 PM"})
-
 park = Park.create!({name: "MAPLEWOOD", district: "NORTH SIDE", address: "1640 N. Maplewood Ave.
 Chicago, IL 60647", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/facilities/maplewood%20park%202019/maplewood%20new%20fieldhouse%202019.JPG?itok=pisT4Wah", hours: "6:00 AM - 11:00 PM"})
 
@@ -3117,12 +2823,6 @@ Chicago, IL 60629", facility: "HORSESHOE", indoor: "NO", outdoor: "YES", image: 
 
 park = Park.create!({name: "MARQUETTE (JACQUES)", district: "SOUTHWEST SIDE", address: "6743 S. Kedzie Ave.
 Chicago, IL 60629", facility: "COMMUNITY GARDEN", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/6feaa0b6e6ae44dead21ec6096b3fafa1.JPG?itok=TlVRC7iv", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "MARSHFIELD", district: "FAR SOUTHWEST SIDE", address: "1637 W. 87th St.
-Chicago, IL 60620", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/f3f9a124904e42e29bc885ea081af4fd1.jpg?itok=hc9DbB3c", hours: "7:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "MARSHFIELD", district: "FAR SOUTHWEST SIDE", address: "1637 W. 87th St.
-Chicago, IL 60620", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/f3f9a124904e42e29bc885ea081af4fd1.jpg?itok=hc9DbB3c", hours: "7:00 AM - 11:00 PM"})
 
 park = Park.create!({name: "MATHER (STEPHEN TYNG)", district: "FAR NORTH SIDE", address: "5941 N. Richmond St.
 Chicago, IL 60659", facility: "FOOTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/cf7e97b0fe8a40888c2c55c85e0acaf81.JPG?itok=EAhOV5q2", hours: "6:00 AM - 11:00 PM"})
@@ -3286,18 +2986,6 @@ Chicago, IL 60621", facility: "FOOTBALL", indoor: "NO", outdoor: "YES", image: "
 park = Park.create!({name: "MEMORIAL", district: "SOUTHWEST SIDE", address: "149 W. 73rd St.
 Chicago, IL 60621", facility: "SOCCER", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/f4ae3a83c4d6457bb4bd960504a39e4a1.JPG?itok=vI_GUO0H", hours: "6:00 AM - 11:00 PM"})
 
-park = Park.create!({name: "MERRILL (GEORGE)", district: "SOUTH SIDE", address: "2154 E. 97th St.
-Chicago, IL 60617", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/28049cb770324e6a94f4900770d2deb21.JPG?itok=LUMW4R26", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "MERRILL (GEORGE)", district: "SOUTH SIDE", address: "2154 E. 97th St.
-Chicago, IL 60617", facility: "BASEBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/28049cb770324e6a94f4900770d2deb21.JPG?itok=LUMW4R26", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "MERRILL (GEORGE)", district: "SOUTH SIDE", address: "2154 E. 97th St.
-Chicago, IL 60617", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/28049cb770324e6a94f4900770d2deb21.JPG?itok=LUMW4R26", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "MERRILL (GEORGE)", district: "SOUTH SIDE", address: "2154 E. 97th St.
-Chicago, IL 60617", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/28049cb770324e6a94f4900770d2deb21.JPG?itok=LUMW4R26", hours: "6:00 AM - 11:00 PM"})
-
 park = Park.create!({name: "MERRIMAC", district: "NORTHWEST SIDE", address: "6343 W. Irving Park Rd.
 Chicago, IL 60634", facility: "GYMNASIUM", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/14f8e202edee47a2979c3293a495cf8c1.jpg?itok=8K6-Rc1k", hours: "6:00 AM - 11:00 PM"})
 
@@ -3309,21 +2997,6 @@ Chicago, IL 60634", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "
 
 park = Park.create!({name: "MERRIMAC", district: "NORTHWEST SIDE", address: "6343 W. Irving Park Rd.
 Chicago, IL 60634", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/14f8e202edee47a2979c3293a495cf8c1.jpg?itok=8K6-Rc1k", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "METCALFE (RALPH)", district: "SOUTH SIDE", address: "4134 S. State St.
-Chicago, IL 60609", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/63b6dc1b8b0641e3b66958fcc419ed151.jpg?itok=ZkqGD2MU", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "METCALFE (RALPH)", district: "SOUTH SIDE", address: "4134 S. State St.
-Chicago, IL 60609", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/63b6dc1b8b0641e3b66958fcc419ed151.jpg?itok=ZkqGD2MU", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "METCALFE (RALPH)", district: "SOUTH SIDE", address: "4134 S. State St.
-Chicago, IL 60609", facility: "TENNIS", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/63b6dc1b8b0641e3b66958fcc419ed151.jpg?itok=ZkqGD2MU", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "METCALFE (RALPH)", district: "SOUTH SIDE", address: "4134 S. State St.
-Chicago, IL 60609", facility: "BASEBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/63b6dc1b8b0641e3b66958fcc419ed151.jpg?itok=ZkqGD2MU", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "METCALFE (RALPH)", district: "SOUTH SIDE", address: "4134 S. State St.
-Chicago, IL 60609", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/63b6dc1b8b0641e3b66958fcc419ed151.jpg?itok=ZkqGD2MU", hours: "6:00 AM - 9:00 PM"})
 
 park = Park.create!({name: "MEYERING (WILLIAM)", district: "SOUTH SIDE", address: "7140 S. Martin Luther King Dr.
 Chicago, IL 60619", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/81635a95debf424fa95fb7b21e4d397f1.jpg?itok=R_Tl8WLE", hours: "6:00 AM - 9:00 PM"})
@@ -3346,21 +3019,6 @@ Chicago, IL 60619", facility: "SOCCER", indoor: "NO", outdoor: "YES", image: "ht
 park = Park.create!({name: "MEYERING (WILLIAM)", district: "SOUTH SIDE", address: "7140 S. Martin Luther King Dr.
 Chicago, IL 60619", facility: "COMMUNITY GARDEN", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/81635a95debf424fa95fb7b21e4d397f1.jpg?itok=R_Tl8WLE", hours: "6:00 AM - 9:00 PM"})
 
-park = Park.create!({name: "MICEK (FRANK)", district: "SOUTHWEST SIDE", address: "5311 S. Hamilton Ave.
-Chicago, IL 60614", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/4f53d931ddee4876b23a5b48407869091.JPG?itok=YHecCfwj", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "MICEK (FRANK)", district: "SOUTHWEST SIDE", address: "5311 S. Hamilton Ave.
-Chicago, IL 60614", facility: "FOOTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/4f53d931ddee4876b23a5b48407869091.JPG?itok=YHecCfwj", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "MICEK (FRANK)", district: "SOUTHWEST SIDE", address: "5311 S. Hamilton Ave.
-Chicago, IL 60614", facility: "SOCCER", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/4f53d931ddee4876b23a5b48407869091.JPG?itok=YHecCfwj", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "MICEK (FRANK)", district: "SOUTHWEST SIDE", address: "5311 S. Hamilton Ave.
-Chicago, IL 60614", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/4f53d931ddee4876b23a5b48407869091.JPG?itok=YHecCfwj", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "MICEK (FRANK)", district: "SOUTHWEST SIDE", address: "5311 S. Hamilton Ave.
-Chicago, IL 60614", facility: "VOLLEYBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/4f53d931ddee4876b23a5b48407869091.JPG?itok=YHecCfwj", hours: "6:00 AM - 11:00 PM"})
-
 park = Park.create!({name: "MIDWAY PLAISANCE", district: "SOUTH SIDE", address: "1130 Midway Plaisance North
 Chicago, IL 60637", facility: "FOOTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/54f225b3c86d4de0900bfeaccb557ab11.JPG?itok=RSUFd2jk", hours: "6:00 AM - 9:00 PM"})
 
@@ -3372,12 +3030,6 @@ Chicago, IL 60637", facility: "ICESKATING", indoor: "NO", outdoor: "YES", image:
 
 park = Park.create!({name: "MIDWAY PLAISANCE", district: "SOUTH SIDE", address: "1130 Midway Plaisance North
 Chicago, IL 60637", facility: "COMMUNITY GARDEN", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/54f225b3c86d4de0900bfeaccb557ab11.JPG?itok=RSUFd2jk", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "MILLARD (ALDEN)", district: "WEST SIDE", address: "1331 S. Millard Ave.
-Chicago, IL 60623", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/31abbc92e1d24c74826b60fdb294143c1.jpg?itok=PSSDNzjQ", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "MILLARD (ALDEN)", district: "WEST SIDE", address: "1331 S. Millard Ave.
-Chicago, IL 60623", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/31abbc92e1d24c74826b60fdb294143c1.jpg?itok=PSSDNzjQ", hours: "6:00 AM - 11:00 PM"})
 
 park = Park.create!({name: "MINUTEMAN", district: "SOUTHWEST SIDE", address: "5940 S. Central Ave.
 Chicago, IL 60638", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/8734bc8fa67c41fa89e572ddcdfde34b1.JPG?itok=GKqPUBmJ", hours: "6:00 AM - 11:00 PM"})
@@ -3406,21 +3058,6 @@ Chicago, IL 60638", facility: "VOLLEYBALL", indoor: "NO", outdoor: "YES", image:
 park = Park.create!({name: "MINUTEMAN", district: "SOUTHWEST SIDE", address: "5940 S. Central Ave.
 Chicago, IL 60638", facility: "COMMUNITY GARDEN", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/8734bc8fa67c41fa89e572ddcdfde34b1.JPG?itok=GKqPUBmJ", hours: "6:00 AM - 11:00 PM"})
 
-park = Park.create!({name: "MOCCASIN RANCH", district: "SOUTH SIDE", address: "6446 S. Kimbark Ave.
-Chicago, IL 60637", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/d562faadb4cc47f0a49850424ef4fa9b1.JPG?itok=gTzt7SNo", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "MOCCASIN RANCH", district: "SOUTH SIDE", address: "6446 S. Kimbark Ave.
-Chicago, IL 60637", facility: "COMMUNITY GARDEN", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/d562faadb4cc47f0a49850424ef4fa9b1.JPG?itok=gTzt7SNo", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "MONTICELLO", district: "WEST SIDE", address: "1810 N. Monticello Ave.
-Chicago, IL 60647", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/bb078c0299b740e3bfab38625d4178931.JPG?itok=uArD-Nd3", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "MONTICELLO", district: "WEST SIDE", address: "1810 N. Monticello Ave.
-Chicago, IL 60647", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/bb078c0299b740e3bfab38625d4178931.JPG?itok=uArD-Nd3", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "MONUMENT", district: "FAR NORTH SIDE", address: "6679 N. Avondale Ave.
-Chicago, IL 60631", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/d8482bc7177d41019b713476fcda020d1.JPG?itok=A1RmqkYm", hours: "6:00 AM - 11:00 PM"})
-
 park = Park.create!({name: "MOORE (MAURICE)", district: "FAR NORTH SIDE", address: "5085 W. Adams
 Chicago, IL 60644", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/d85f84562d6f4e4887a9d95243b2c84c1.jpg?itok=YY_kmwRR", hours: "6:00 AM - 11:00 PM"})
 
@@ -3444,18 +3081,6 @@ Chicago, IL 60644", facility: "COMMUNITY GARDEN", indoor: "NO", outdoor: "YES", 
 
 park = Park.create!({name: "MOORE (MAURICE)", district: "FAR NORTH SIDE", address: "5085 W. Adams
 Chicago, IL 60644", facility: "GYMNASIUM", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/d85f84562d6f4e4887a9d95243b2c84c1.jpg?itok=YY_kmwRR", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "MORAN (TERRANCE)", district: "SOUTHWEST SIDE", address: "5727 S. Racine Ave.
-Chicago, IL 60621", facility: "COMMUNITY GARDEN", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/moran-img-2339.jpg?itok=o6WqYH0R", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "MORAN (TERRANCE)", district: "SOUTHWEST SIDE", address: "5727 S. Racine Ave.
-Chicago, IL 60621", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/moran-img-2339.jpg?itok=o6WqYH0R", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "MORGAN (THOMAS LEEDS) FIELD", district: "FAR SOUTHEAST SIDE", address: "11710 S. Morgan St.
-Chicago, IL 60643", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/26eb922d184b41d782c5a6888c3b02101.JPG?itok=ASaX5dbg", hours: "7:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "MORGAN (THOMAS LEEDS) FIELD", district: "FAR SOUTHEAST SIDE", address: "11710 S. Morgan St.
-Chicago, IL 60643", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/26eb922d184b41d782c5a6888c3b02101.JPG?itok=ASaX5dbg", hours: "7:00 AM - 11:00 PM"})
 
 park = Park.create!({name: "MOUNT GREENWOOD", district: "FAR SOUTHWEST SIDE", address: "3721 W. 111th St.
 Chicago, IL 60655", facility: "BASEBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/d35b4f9d44754a9d8df36773dd84b8801.JPG?itok=AZxVtcwO", hours: "6:00 AM - 11:00 PM"})
@@ -3532,36 +3157,6 @@ Chicago, IL 60655", facility: "VOLLEYBALL", indoor: "NO", outdoor: "YES", image:
 park = Park.create!({name: "MUNROE", district: "FAR SOUTHWEST SIDE", address: "2617 W. 105th St.
 Chicago, IL 60655", facility: "TRACK", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/84ee81a51c7b46bf883d24e9cb300be71.JPG?itok=0D4is8uo", hours: "6:00 AM - 9:00 PM"})
 
-park = Park.create!({name: "MURRAY (DAVID)", district: "SOUTHWEST SIDE", address: "1743 W. 73rd St.
-Chicago, IL 60655", facility: "FOOTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/6227102e2307480b9931d6f9137212de1.JPG?itok=TnMaW_RL", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "MURRAY (DAVID)", district: "SOUTHWEST SIDE", address: "1743 W. 73rd St.
-Chicago, IL 60655", facility: "SOCCER", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/6227102e2307480b9931d6f9137212de1.JPG?itok=TnMaW_RL", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "MURRAY (DAVID)", district: "SOUTHWEST SIDE", address: "1743 W. 73rd St.
-Chicago, IL 60655", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/6227102e2307480b9931d6f9137212de1.JPG?itok=TnMaW_RL", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "MURRAY (DAVID)", district: "SOUTHWEST SIDE", address: "1743 W. 73rd St.
-Chicago, IL 60655", facility: "BASEBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/6227102e2307480b9931d6f9137212de1.JPG?itok=TnMaW_RL", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "MURRAY (DAVID)", district: "SOUTHWEST SIDE", address: "1743 W. 73rd St.
-Chicago, IL 60655", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/6227102e2307480b9931d6f9137212de1.JPG?itok=TnMaW_RL", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "MURRAY (DAVID)", district: "SOUTHWEST SIDE", address: "1743 W. 73rd St.
-Chicago, IL 60655", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/6227102e2307480b9931d6f9137212de1.JPG?itok=TnMaW_RL", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "NASH (DON) COMM. CTR.", district: "SOUTH SIDE", address: "1833 E. 71st
-Chicago, IL 60649", facility: "FITNESS CENTER", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/4a7f41d742574a54b25345ac4987bbff1.JPG?itok=KqkdPOzp", hours: "7:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "NASH (DON) COMM. CTR.", district: "SOUTH SIDE", address: "1833 E. 71st
-Chicago, IL 60649", facility: "GYMNASIUM", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/4a7f41d742574a54b25345ac4987bbff1.JPG?itok=KqkdPOzp", hours: "7:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "NASH (DON) COMM. CTR.", district: "SOUTH SIDE", address: "1833 E. 71st
-Chicago, IL 60649", facility: "POOL", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/4a7f41d742574a54b25345ac4987bbff1.JPG?itok=KqkdPOzp", hours: "7:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "NASH (DON) COMM. CTR.", district: "SOUTH SIDE", address: "1833 E. 71st
-Chicago, IL 60649", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/4a7f41d742574a54b25345ac4987bbff1.JPG?itok=KqkdPOzp", hours: "7:00 AM - 9:00 PM"})
-
 park = Park.create!({name: "NICHOLS (JOHN FOUNTAIN)", district: "SOUTH SIDE", address: "1355 E. 53rd St.
 Chicago, IL 60615", facility: "GYMNASIUM", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/558ed37d173845ff9f523afbffad16b01.jpg?itok=pBXzVZQV", hours: "6:00 AM - 9:00 PM"})
 
@@ -3600,9 +3195,6 @@ Chicago, IL 60638", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image:
 
 park = Park.create!({name: "NORMANDY", district: "SOUTHWEST SIDE", address: "6660 W. 52nd St.
 Chicago, IL 60638", facility: "VOLLEYBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/91e075cdd4b84e25ae5af031fd3c362b1.jpg?itok=a20TscHw", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "NORTH MAYFAIR", district: "NORTHWEST SIDE", address: "4533 W. Carmen Ave.
-Chicago, IL 60630", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/a16363a578604545a23022cf0cb307e21.JPG?itok=Kb-mMy9O", hours: "6:00 AM - 11:00 PM"})
 
 park = Park.create!({name: "NORTH SHORE BEACH", district: "FAR NORTH SIDE", address: "1040 W North Shore Av
 Chicago, IL 60626", facility: "BEACH", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/North%20shore%20Beach%201.JPG?itok=botWG1Ab", hours: "11:00 AM - 7:00 PM"})
@@ -3648,33 +3240,6 @@ Chicago, IL 60631", facility: "TENNIS", indoor: "NO", outdoor: "YES", image: "ht
 
 park = Park.create!({name: "NORWOOD", district: "FAR NORTH SIDE", address: "5801 N. Natoma Ave.
 Chicago, IL 60631", facility: "TRACK", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/f8e27ed18e7640f19b189be68b9371fe1.jpg?itok=qkTLK33y", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "O'HALLAREN (BERNARD)", district: "FAR SOUTHWEST SIDE", address: "8335 S. Honore St.
-Chicago, IL 60620", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/69dbf8c4f52640578412bd8ff27080951.JPG?itok=s4J__RK3", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "O'HALLAREN (BERNARD)", district: "FAR SOUTHWEST SIDE", address: "8335 S. Honore St.
-Chicago, IL 60620", facility: "FOOTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/69dbf8c4f52640578412bd8ff27080951.JPG?itok=s4J__RK3", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "O'HALLAREN (BERNARD)", district: "FAR SOUTHWEST SIDE", address: "8335 S. Honore St.
-Chicago, IL 60620", facility: "SOCCER", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/69dbf8c4f52640578412bd8ff27080951.JPG?itok=s4J__RK3", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "O'HALLAREN (BERNARD)", district: "FAR SOUTHWEST SIDE", address: "8335 S. Honore St.
-Chicago, IL 60620", facility: "BASEBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/69dbf8c4f52640578412bd8ff27080951.JPG?itok=s4J__RK3", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "O'HALLAREN (BERNARD)", district: "FAR SOUTHWEST SIDE", address: "8335 S. Honore St.
-Chicago, IL 60620", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/69dbf8c4f52640578412bd8ff27080951.JPG?itok=s4J__RK3", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "O'HALLAREN (BERNARD)", district: "FAR SOUTHWEST SIDE", address: "8335 S. Honore St.
-Chicago, IL 60620", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/69dbf8c4f52640578412bd8ff27080951.JPG?itok=s4J__RK3", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "O'HALLAREN (BERNARD)", district: "FAR SOUTHWEST SIDE", address: "8335 S. Honore St.
-Chicago, IL 60620", facility: "TENNIS", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/69dbf8c4f52640578412bd8ff27080951.JPG?itok=s4J__RK3", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "O'HALLAREN (BERNARD)", district: "FAR SOUTHWEST SIDE", address: "8335 S. Honore St.
-Chicago, IL 60620", facility: "VOLLEYBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/69dbf8c4f52640578412bd8ff27080951.JPG?itok=s4J__RK3", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "O'HALLAREN (BERNARD)", district: "FAR SOUTHWEST SIDE", address: "8335 S. Honore St.
-Chicago, IL 60620", facility: "COMMUNITY GARDEN", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/69dbf8c4f52640578412bd8ff27080951.JPG?itok=s4J__RK3", hours: "6:00 AM - 11:00 PM"})
 
 park = Park.create!({name: "OAKDALE", district: "FAR SOUTHWEST SIDE", address: "965 W. 95th St.
 Chicago, IL 60643", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/5ffb79af869847f683c9735c11d3db821.JPG?itok=i6io06Yh", hours: "6:00 AM - 11:00 PM"})
@@ -3790,15 +3355,6 @@ Chicago, IL 60656", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image:
 park = Park.create!({name: "ORIOLE", district: "FAR NORTH SIDE", address: "5430 N. Olcott Ave.
 Chicago, IL 60656", facility: "TENNIS", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/97ac9d76271a485692d231717520aea91.jpg?itok=DzXPjLGG", hours: "6:00 AM - 11:00 PM"})
 
-park = Park.create!({name: "ORR (REZIN)", district: "WEST SIDE", address: "744 N. Pulaski Rd.
-Chicago, IL 60624", facility: "TURF FIELD", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/f4bba0edce404664b535c363084cef3a1.jpg?itok=h1Z-fVsV", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "ORR (REZIN)", district: "WEST SIDE", address: "744 N. Pulaski Rd.
-Chicago, IL 60624", facility: "GYMNASIUM", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/f4bba0edce404664b535c363084cef3a1.jpg?itok=h1Z-fVsV", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "ORR (REZIN)", district: "WEST SIDE", address: "744 N. Pulaski Rd.
-Chicago, IL 60624", facility: "TRACK", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/f4bba0edce404664b535c363084cef3a1.jpg?itok=h1Z-fVsV", hours: "6:00 AM - 11:00 PM"})
-
 park = Park.create!({name: "OWENS (JESSE)", district: "FAR SOUTHEAST SIDE", address: "8800 S. Clyde
 Chicago, IL 60617", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/8a3f676340da42a2b9fea6afaa8e24671.JPG?itok=0UnA_mK2", hours: "6:00 AM - 9:00 PM"})
 
@@ -3883,66 +3439,8 @@ Chicago, IL 60628", facility: "TENNIS", indoor: "NO", outdoor: "YES", image: "ht
 park = Park.create!({name: "PALMER (POTTER)", district: "FAR SOUTHEAST SIDE", address: "201 E. 111th St.
 Chicago, IL 60628", facility: "TURF FIELD", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/ca1544d9f36b44bd985b16fe418c5dd81.JPG?itok=lk8aHL1o", hours: "7:00 AM - 11:00 PM"})
 
-
 park = Park.create!({name: "PALMER (POTTER)", district: "NORTH SIDE", address: "2200 N. Kedzie Ave.
 Chicago, IL 60647", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/4d76b61ddcdf43538768339170f1bba01.JPG?itok=XEgXLJ4f", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "PARK NO. 500", district: "WEST SIDE", address: "730 S. Springfield Ave.
-Chicago, IL 60624", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/81c36b74fdb5429eb6e9244af8748cc81.jpg?itok=2kXBpDKp", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "PARK NO. 500", district: "WEST SIDE", address: "730 S. Springfield Ave.
-Chicago, IL 60624", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/81c36b74fdb5429eb6e9244af8748cc81.jpg?itok=2kXBpDKp", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "PARK NO. 514", district: "WEST SIDE", address: "1420 N. Monticello Ave.
-Chicago, IL 60651", facility: "COMMUNITY GARDEN", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/4ed4b74f74494140933ece150ca893ac1.jpg?itok=QojfbG4f", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "PARK NO. 517", district: "FAR NORTH SIDE", address: "5914 N. Sheridan Rd.
-Chicago, IL 60660", facility: "COMMUNITY GARDEN", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/08c5ec26a9d94488bf92ff5bf1bb13571.jpg?itok=djC0dkEe", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "PARK NO. 528", district: "SOUTHWEST SIDE", address: "6336 S. Kilbourn Ave
-Chicago, IL 60629", facility: "BASEBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/96b17fefc8074b78b0258d89f135c2fd1.JPG?itok=GGPqGBm0", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "PARK NO. 528", district: "SOUTHWEST SIDE", address: "6336 S. Kilbourn Ave
-Chicago, IL 60629", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/96b17fefc8074b78b0258d89f135c2fd1.JPG?itok=GGPqGBm0", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "PARK NO. 534", district: "WEST SIDE", address: "1300 S. St. Louis
-Chicago, IL 60623", facility: "TRACK", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/d5fc7d2f574141f782b190181a973b461.JPG?itok=hl8Y39SQ", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "PARK NO. 534", district: "WEST SIDE", address: "1300 S. St. Louis
-Chicago, IL 60623", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/d5fc7d2f574141f782b190181a973b461.JPG?itok=hl8Y39SQ", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "PARK NO. 540", district: "CENTRAL CHICAGO", address: "24th and Federal
-Chicago, IL 60611", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/Park_No_540_Slideshow01.jpg?itok=d6Pim9Ai", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "PARK NO. 540", district: "CENTRAL CHICAGO", address: "24th and Federal
-Chicago, IL 60611", facility: "BASEBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/Park_No_540_Slideshow01.jpg?itok=d6Pim9Ai", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "PARK NO. 540", district: "CENTRAL CHICAGO", address: "24th and Federal
-Chicago, IL 60611", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/Park_No_540_Slideshow01.jpg?itok=d6Pim9Ai", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "PARK NO. 543", district: "CENTRAL CHICAGO", address: "632 S. Dearborn St.
-Chicago, IL 60605", facility: "COMMUNITY GARDEN", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/printrs%20row.jpg?itok=Xa_83z9u", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "PARK NO. 543", district: "CENTRAL CHICAGO", address: "632 S. Dearborn St.
-Chicago, IL 60605", facility: "COMMUNITY GARDEN", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/printrs%20row.jpg?itok=Xa_83z9u", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "PARK NO. 577", district: "FAR SOUTHWEST SIDE", address: "11505 S. Western Ave.
-Chicago, IL 60647", facility: "GYMNASTIC", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/1ed8a0041b0144cb880143c12d3fb5cb1.jpg?itok=CiOfap2L", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "PARK NO. 577", district: "FAR SOUTHWEST SIDE", address: "11505 S. Western Ave.
-Chicago, IL 60647", facility: "FITNESS CENTER", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/1ed8a0041b0144cb880143c12d3fb5cb1.jpg?itok=CiOfap2L", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "PARK NO. 577", district: "FAR SOUTHWEST SIDE", address: "11505 S. Western Ave.
-Chicago, IL 60647", facility: "ICESKATING", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/1ed8a0041b0144cb880143c12d3fb5cb1.jpg?itok=CiOfap2L", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "PASCHEN (CHRISTIAN)", district: "NORTH SIDE", address: "1932 W. Lunt Ave.
-Chicago, IL 60626", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/eating%20hot%20dogs%20at%20Parkview%20Play%20Lot.PNG?itok=pMKdRiRg", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "PASCHEN (CHRISTIAN)", district: "NORTH SIDE", address: "1932 W. Lunt Ave.
-Chicago, IL 60626", facility: "VOLLEYBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/eating%20hot%20dogs%20at%20Parkview%20Play%20Lot.PNG?itok=pMKdRiRg", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "PASCHEN (CHRISTIAN)", district: "NORTH SIDE", address: "1932 W. Lunt Ave.
-Chicago, IL 60626", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/eating%20hot%20dogs%20at%20Parkview%20Play%20Lot.PNG?itok=pMKdRiRg", hours: "6:00 AM - 11:00 PM"})
 
 park = Park.create!({name: "PASTEUR (LOUIS)", district: "SOUTHWEST SIDE", address: "5825 S. Kostner Ave
 Chicago, IL 60629", facility: "TURF FIELD", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/cf33fe8dfd2443acaa7ad1115058458a1.JPG?itok=n7VhnxgR", hours: "6:00 AM - 11:00 PM"})
@@ -3973,87 +3471,6 @@ Chicago, IL 60629", facility: "ROLLER COURT", indoor: "NO", outdoor: "YES", imag
 
 park = Park.create!({name: "PASTEUR (LOUIS)", district: "SOUTHWEST SIDE", address: "5825 S. Kostner Ave
 Chicago, IL 60629", facility: "TENNIS", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/cf33fe8dfd2443acaa7ad1115058458a1.JPG?itok=n7VhnxgR", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "PENDLETON (HADIYA)", district: "SOUTH SIDE", address: "4345 S. Calumet Ave.
-Chicago, IL 60653", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/hadiya_pendleton_slideshow07.jpg?itok=v9hOzQul", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "PENDLETON (HADIYA)", district: "SOUTH SIDE", address: "4345 S. Calumet Ave.
-Chicago, IL 60653", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/hadiya_pendleton_slideshow07.jpg?itok=v9hOzQul", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "PETERSON (PEHR SAMUEL)", district: "FAR NORTH SIDE", address: "5801 N. Pulaski Rd.
-Chicago, IL 60646", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/5e8e7eb4a7584aaa8f63c1e939b8f0af1.JPG?itok=z4NidNbJ", hours: "7:00 AM - 10:00 PM"})
-
-park = Park.create!({name: "PETERSON (PEHR SAMUEL)", district: "FAR NORTH SIDE", address: "5801 N. Pulaski Rd.
-Chicago, IL 60646", facility: "FOOTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/5e8e7eb4a7584aaa8f63c1e939b8f0af1.JPG?itok=z4NidNbJ", hours: "7:00 AM - 10:00 PM"})
-
-park = Park.create!({name: "PETERSON (PEHR SAMUEL)", district: "FAR NORTH SIDE", address: "5801 N. Pulaski Rd.
-Chicago, IL 60646", facility: "SOCCER", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/5e8e7eb4a7584aaa8f63c1e939b8f0af1.JPG?itok=z4NidNbJ", hours: "7:00 AM - 10:00 PM"})
-
-park = Park.create!({name: "PETERSON (PEHR SAMUEL)", district: "FAR NORTH SIDE", address: "5801 N. Pulaski Rd.
-Chicago, IL 60646", facility: "FITNESS CENTER", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/5e8e7eb4a7584aaa8f63c1e939b8f0af1.JPG?itok=z4NidNbJ", hours: "7:00 AM - 10:00 PM"})
-
-park = Park.create!({name: "PETERSON (PEHR SAMUEL)", district: "FAR NORTH SIDE", address: "5801 N. Pulaski Rd.
-Chicago, IL 60646", facility: "GYMNASIUM", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/5e8e7eb4a7584aaa8f63c1e939b8f0af1.JPG?itok=z4NidNbJ", hours: "7:00 AM - 10:00 PM"})
-
-park = Park.create!({name: "PETERSON (PEHR SAMUEL)", district: "FAR NORTH SIDE", address: "5801 N. Pulaski Rd.
-Chicago, IL 60646", facility: "GYMNASTIC", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/5e8e7eb4a7584aaa8f63c1e939b8f0af1.JPG?itok=z4NidNbJ", hours: "7:00 AM - 10:00 PM"})
-
-park = Park.create!({name: "PETERSON (PEHR SAMUEL)", district: "FAR NORTH SIDE", address: "5801 N. Pulaski Rd.
-Chicago, IL 60646", facility: "BASEBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/5e8e7eb4a7584aaa8f63c1e939b8f0af1.JPG?itok=z4NidNbJ", hours: "7:00 AM - 10:00 PM"})
-
-park = Park.create!({name: "PETERSON (PEHR SAMUEL)", district: "FAR NORTH SIDE", address: "5801 N. Pulaski Rd.
-Chicago, IL 60646", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/5e8e7eb4a7584aaa8f63c1e939b8f0af1.JPG?itok=z4NidNbJ", hours: "7:00 AM - 10:00 PM"})
-
-park = Park.create!({name: "PETERSON (PEHR SAMUEL)", district: "FAR NORTH SIDE", address: "5801 N. Pulaski Rd.
-Chicago, IL 60646", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/5e8e7eb4a7584aaa8f63c1e939b8f0af1.JPG?itok=z4NidNbJ", hours: "7:00 AM - 10:00 PM"})
-
-park = Park.create!({name: "PETERSON (PEHR SAMUEL)", district: "FAR NORTH SIDE", address: "5801 N. Pulaski Rd.
-Chicago, IL 60646", facility: "TENNIS", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/5e8e7eb4a7584aaa8f63c1e939b8f0af1.JPG?itok=z4NidNbJ", hours: "7:00 AM - 10:00 PM"})
-
-park = Park.create!({name: "PIETROWSKI (SYLVESTER)", district: "FAR SOUTHEAST SIDE", address: "9650 S. Avenue M
-Chicago, IL 60617", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/2a09ce6781ae48458c77d0b0f0b447651.jpg?itok=RSQfXiIo", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "PIOTROWSKI (LILLIAN)", district: "WEST SIDE", address: "4247 W. 31st St.
-Chicago, IL 60623", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/7ccf0836d48d427bbbb9a1211c07e9fe1.jpg?itok=sqnk06_R", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "PIOTROWSKI (LILLIAN)", district: "WEST SIDE", address: "4247 W. 31st St.
-Chicago, IL 60623", facility: "TURF FIELD", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/7ccf0836d48d427bbbb9a1211c07e9fe1.jpg?itok=sqnk06_R", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "PIOTROWSKI (LILLIAN)", district: "WEST SIDE", address: "4247 W. 31st St.
-Chicago, IL 60623", facility: "FOOTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/7ccf0836d48d427bbbb9a1211c07e9fe1.jpg?itok=sqnk06_R", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "PIOTROWSKI (LILLIAN)", district: "WEST SIDE", address: "4247 W. 31st St.
-Chicago, IL 60623", facility: "SOCCER", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/7ccf0836d48d427bbbb9a1211c07e9fe1.jpg?itok=sqnk06_R", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "PIOTROWSKI (LILLIAN)", district: "WEST SIDE", address: "4247 W. 31st St.
-Chicago, IL 60623", facility: "FITNESS CENTER", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/7ccf0836d48d427bbbb9a1211c07e9fe1.jpg?itok=sqnk06_R", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "PIOTROWSKI (LILLIAN)", district: "WEST SIDE", address: "4247 W. 31st St.
-Chicago, IL 60623", facility: "GYMNASIUM", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/7ccf0836d48d427bbbb9a1211c07e9fe1.jpg?itok=sqnk06_R", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "PIOTROWSKI (LILLIAN)", district: "WEST SIDE", address: "4247 W. 31st St.
-Chicago, IL 60623", facility: "BASEBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/7ccf0836d48d427bbbb9a1211c07e9fe1.jpg?itok=sqnk06_R", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "PIOTROWSKI (LILLIAN)", district: "WEST SIDE", address: "4247 W. 31st St.
-Chicago, IL 60623", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/7ccf0836d48d427bbbb9a1211c07e9fe1.jpg?itok=sqnk06_R", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "PIOTROWSKI (LILLIAN)", district: "WEST SIDE", address: "4247 W. 31st St.
-Chicago, IL 60623", facility: "POOL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/7ccf0836d48d427bbbb9a1211c07e9fe1.jpg?itok=sqnk06_R", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "PIOTROWSKI (LILLIAN)", district: "WEST SIDE", address: "4247 W. 31st St.
-Chicago, IL 60623", facility: "TENNIS", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/7ccf0836d48d427bbbb9a1211c07e9fe1.jpg?itok=sqnk06_R", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "PIOTROWSKI (LILLIAN)", district: "WEST SIDE", address: "4247 W. 31st St.
-Chicago, IL 60623", facility: "VOLLEYBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/7ccf0836d48d427bbbb9a1211c07e9fe1.jpg?itok=sqnk06_R", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "PIOTROWSKI (LILLIAN)", district: "WEST SIDE", address: "4247 W. 31st St.
-Chicago, IL 60623", facility: "COMMUNITY GARDEN", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/7ccf0836d48d427bbbb9a1211c07e9fe1.jpg?itok=sqnk06_R", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "PLEASANT POINT", district: "FAR NORTH SIDE", address: "6801 W. Imlay St.
-Chicago, IL 60631", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/df4bf96625bf453797603225b2a6aad41.JPG?itok=1uAOoynR", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "PLEASANT POINT", district: "FAR NORTH SIDE", address: "6801 W. Imlay St.
-Chicago, IL 60631", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/df4bf96625bf453797603225b2a6aad41.JPG?itok=1uAOoynR", hours: "6:00 AM - 11:00 PM"})
 
 park = Park.create!({name: "PORTAGE", district: "FAR NORTH SIDE", address: "4100 N. Long Ave.
 Chicago, IL 60641", facility: "BOXING", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/d8ed8cc282064872ad8c7e3a12a82f621.jpg?itok=qTyrs0Qv", hours: "6:00 AM - 11:00 PM"})
@@ -4091,36 +3508,6 @@ Chicago, IL 60641", facility: "ROLLER COURT", indoor: "NO", outdoor: "YES", imag
 park = Park.create!({name: "PORTAGE", district: "FAR NORTH SIDE", address: "4100 N. Long Ave.
 Chicago, IL 60641", facility: "TENNIS", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/d8ed8cc282064872ad8c7e3a12a82f621.jpg?itok=qTyrs0Qv", hours: "6:00 AM - 11:00 PM"})
 
-park = Park.create!({name: "POTTAWATTOMIE", district: "FAR NORTH SIDE", address: "7340 N. Rogers Ave.
-Chicago, IL 60626", facility: "HANDBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/Pottawattomie%20Park%20-%20Watching%20Tree%20Dec%202018.JPG?itok=pVhaMugc", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "POTTAWATTOMIE", district: "FAR NORTH SIDE", address: "7340 N. Rogers Ave.
-Chicago, IL 60626", facility: "TURF FIELD", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/Pottawattomie%20Park%20-%20Watching%20Tree%20Dec%202018.JPG?itok=pVhaMugc", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "POTTAWATTOMIE", district: "FAR NORTH SIDE", address: "7340 N. Rogers Ave.
-Chicago, IL 60626", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/Pottawattomie%20Park%20-%20Watching%20Tree%20Dec%202018.JPG?itok=pVhaMugc", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "POTTAWATTOMIE", district: "FAR NORTH SIDE", address: "7340 N. Rogers Ave.
-Chicago, IL 60626", facility: "FOOTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/Pottawattomie%20Park%20-%20Watching%20Tree%20Dec%202018.JPG?itok=pVhaMugc", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "POTTAWATTOMIE", district: "FAR NORTH SIDE", address: "7340 N. Rogers Ave.
-Chicago, IL 60626", facility: "SOCCER", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/Pottawattomie%20Park%20-%20Watching%20Tree%20Dec%202018.JPG?itok=pVhaMugc", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "POTTAWATTOMIE", district: "FAR NORTH SIDE", address: "7340 N. Rogers Ave.
-Chicago, IL 60626", facility: "FITNESS CENTER", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/Pottawattomie%20Park%20-%20Watching%20Tree%20Dec%202018.JPG?itok=pVhaMugc", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "POTTAWATTOMIE", district: "FAR NORTH SIDE", address: "7340 N. Rogers Ave.
-Chicago, IL 60626", facility: "GYMNASIUM", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/Pottawattomie%20Park%20-%20Watching%20Tree%20Dec%202018.JPG?itok=pVhaMugc", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "POTTAWATTOMIE", district: "FAR NORTH SIDE", address: "7340 N. Rogers Ave.
-Chicago, IL 60626", facility: "BASEBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/Pottawattomie%20Park%20-%20Watching%20Tree%20Dec%202018.JPG?itok=pVhaMugc", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "POTTAWATTOMIE", district: "FAR NORTH SIDE", address: "7340 N. Rogers Ave.
-Chicago, IL 60626", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/Pottawattomie%20Park%20-%20Watching%20Tree%20Dec%202018.JPG?itok=pVhaMugc", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "POTTAWATTOMIE", district: "FAR NORTH SIDE", address: "7340 N. Rogers Ave.
-Chicago, IL 60626", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/Pottawattomie%20Park%20-%20Watching%20Tree%20Dec%202018.JPG?itok=pVhaMugc", hours: "6:00 AM - 11:00 PM"})
-
 park = Park.create!({name: "PRAIRIE WOLF", district: "FAR NORTH SIDE", address: "6310 S. Drexel Ave.
 Chicago, IL 60637", facility: "BEACH", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/toby%20prinz%20beach%20paddle%20boarding%20girl.JPG?itok=ml7vV37S", hours: "11:00 AM - 7:00 PM"})
 
@@ -4144,9 +3531,6 @@ Chicago, IL 60642", facility: "POOL", indoor: "NO", outdoor: "YES", image: "http
 
 park = Park.create!({name: "PULASKI (CASIMER)", district: "WEST SIDE", address: "1419 W. Blackhawk St.
 Chicago, IL 60642", facility: "COMMUNITY GARDEN", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/Pulsaki-slideshow-exterior.jpg?itok=-g6KDrGT", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "RAILROAD JUNCTION", district: "SOUTH SIDE", address: "7334 S. Maryland Ave.
-Chicago, IL 60619", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/cfb2b259a69048798f0db7690bfe2aec1.JPG?itok=NG5DN1jv", hours: "6:00 AM - 9:00 PM"})
 
 park = Park.create!({name: "RAINBOW BEACH", district: "SOUTH SIDE", address: "3111 East 77th St.
 Chicago, IL 60649", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/ecb14cea3868426ca5db0d6c728e0bf51.JPG?itok=zYuRDEiD", hours: "6:00 AM - 11:00 PM"})
@@ -4204,9 +3588,6 @@ Chicago, IL 60652", facility: "VOLLEYBALL", indoor: "NO", outdoor: "YES", image:
 
 park = Park.create!({name: "RAINEY (EDWARD)", district: "SOUTHWEST SIDE", address: "4350 W. 79th St.
 Chicago, IL 60652", facility: "TENNIS", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/25a5146c99e545d3a150af4a844bfabe1.JPG?itok=fSv3qIQx", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "RAVENSWOOD MANOR", district: "FAR NORTH SIDE", address: "4604 N. Manor Ave.
-Chicago, IL 60625", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/92611219c3214d1282560b5e26ffcd821.JPG?itok=lhd2wLIl", hours: "6:00 AM - 11:00 PM"})
 
 park = Park.create!({name: "REVERE (PAUL)", district: "NORTH SIDE", address: "2509 W. Irving Park Rd.
 Chicago, IL 60618", facility: "FOOTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/4afcfd4df0874391bc6879bbd51e2f941.jpg?itok=DTqwlBog", hours: "6:00 AM - 11:00 PM"})
@@ -4329,15 +3710,6 @@ park = Park.create!({name: "ROBICHAUX (JOSEPH)", district: "FAR SOUTHWEST SIDE",
 Chicago, IL 60620", facility: "TENNIS", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/dcbba1cd9abb480fa1198bc6cfceb1971.JPG?itok=quzv0GwQ", hours: "7:00 AM - 11:00 PM"})
 
 park = Park.create!({name: "ROBINSON (JACKIE)", district: "FAR SOUTHWEST SIDE", address: "10540 S. Morgan St.
-Chicago, IL 60643", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/cc8328f07ed2417c93977a6de0d8e74a1.JPG?itok=MZIOxKcD", hours: "7:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "ROBINSON (JACKIE)", district: "FAR SOUTHWEST SIDE", address: "10540 S. Morgan St.
-Chicago, IL 60643", facility: "BASEBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/cc8328f07ed2417c93977a6de0d8e74a1.JPG?itok=MZIOxKcD", hours: "7:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "ROBINSON (JACKIE)", district: "FAR SOUTHWEST SIDE", address: "10540 S. Morgan St.
-Chicago, IL 60643", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/cc8328f07ed2417c93977a6de0d8e74a1.JPG?itok=MZIOxKcD", hours: "7:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "ROBINSON (JACKIE)", district: "FAR SOUTHWEST SIDE", address: "10540 S. Morgan St.
 Chicago, IL 60643", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/cc8328f07ed2417c93977a6de0d8e74a1.JPG?itok=MZIOxKcD", hours: "7:00 AM - 11:00 PM"})
 
 park = Park.create!({name: "ROGERS (PHILLIP)", district: "FAR NORTH SIDE", address: "7345 N. Washtenaw Ave.
@@ -4360,12 +3732,6 @@ Chicago, IL 60645", facility: "TENNIS", indoor: "NO", outdoor: "YES", image: "ht
 
 park = Park.create!({name: "ROGERS (PHILLIP)", district: "FAR NORTH SIDE", address: "7345 N. Washtenaw Ave.
 Chicago, IL 60645", facility: "BEACH", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/b4a6b0a6f6874fa7a99b47e3a786f52c1.JPG?itok=g2iAUU4C", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "RONAN (GEORGE)", district: "FAR NORTH SIDE", address: "3000 W. Argyle St.
-Chicago, IL 60625", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/e815cf86843846a6a2c672b4097826781.JPG?itok=MkDmqIN8", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "ROOSEVELT (THEODORE)", district: "CENTRAL CHICAGO", address: "62 W. Roosevelt Rd.
-Chicago, IL 60605", facility: "TENNIS", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/1b676b3cff2a4a90b7da38833256061a1.jpg?itok=u_OnVUvJ", hours: "6:00 AM - 11:00 PM"})
 
 park = Park.create!({name: "ROSEDALE", district: "FAR NORTH SIDE", address: "6312 W. Rosedale Ave.
 Chicago, IL 60646", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/61b70a6adf564b369beae30566e9e07e1.jpg?itok=HjCQ_1Kx", hours: "6:00 AM - 11:00 PM"})
@@ -4391,105 +3757,6 @@ Chicago, IL 60646", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "
 park = Park.create!({name: "ROSEDALE", district: "FAR NORTH SIDE", address: "6312 W. Rosedale Ave.
 Chicago, IL 60646", facility: "TENNIS", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/61b70a6adf564b369beae30566e9e07e1.jpg?itok=HjCQ_1Kx", hours: "6:00 AM - 11:00 PM"})
 
-park = Park.create!({name: "ROSENBLUM (J. LESLIE)", district: "SOUTH SIDE", address: "7547 S. Euclid Ave.
-Chicago, IL 60649", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/f447d18c5af24cf5838385038da306dd1.JPG?itok=UHY14-fp", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "ROSENBLUM (J. LESLIE)", district: "SOUTH SIDE", address: "7547 S. Euclid Ave.
-Chicago, IL 60649", facility: "TENNIS", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/f447d18c5af24cf5838385038da306dd1.JPG?itok=UHY14-fp", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "ROSENBLUM (J. LESLIE)", district: "SOUTH SIDE", address: "7547 S. Euclid Ave.
-Chicago, IL 60649", facility: "TURF FIELD", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/f447d18c5af24cf5838385038da306dd1.JPG?itok=UHY14-fp", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "ROSENBLUM (J. LESLIE)", district: "SOUTH SIDE", address: "7547 S. Euclid Ave.
-Chicago, IL 60649", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/f447d18c5af24cf5838385038da306dd1.JPG?itok=UHY14-fp", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "ROSENBLUM (J. LESLIE)", district: "SOUTH SIDE", address: "7547 S. Euclid Ave.
-Chicago, IL 60649", facility: "BASEBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/f447d18c5af24cf5838385038da306dd1.JPG?itok=UHY14-fp", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "ROSENBLUM (J. LESLIE)", district: "SOUTH SIDE", address: "7547 S. Euclid Ave.
-Chicago, IL 60649", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/f447d18c5af24cf5838385038da306dd1.JPG?itok=UHY14-fp", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "ROWAN (WILLIAM)", district: "FAR SOUTHEAST SIDE", address: "11546 S. Avenue L
-Chicago, IL 60617", facility: "FOOTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/f8111b7628944c59a7d84e798f664db51.JPG?itok=Xz0rQQQo", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "ROWAN (WILLIAM)", district: "FAR SOUTHEAST SIDE", address: "11546 S. Avenue L
-Chicago, IL 60617", facility: "SOCCER", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/f8111b7628944c59a7d84e798f664db51.JPG?itok=Xz0rQQQo", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "ROWAN (WILLIAM)", district: "FAR SOUTHEAST SIDE", address: "11546 S. Avenue L
-Chicago, IL 60617", facility: "GYMNASIUM", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/f8111b7628944c59a7d84e798f664db51.JPG?itok=Xz0rQQQo", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "ROWAN (WILLIAM)", district: "FAR SOUTHEAST SIDE", address: "11546 S. Avenue L
-Chicago, IL 60617", facility: "ICESKATING", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/f8111b7628944c59a7d84e798f664db51.JPG?itok=Xz0rQQQo", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "ROWAN (WILLIAM)", district: "FAR SOUTHEAST SIDE", address: "11546 S. Avenue L
-Chicago, IL 60617", facility: "BASEBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/f8111b7628944c59a7d84e798f664db51.JPG?itok=Xz0rQQQo", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "ROWAN (WILLIAM)", district: "FAR SOUTHEAST SIDE", address: "11546 S. Avenue L
-Chicago, IL 60617", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/f8111b7628944c59a7d84e798f664db51.JPG?itok=Xz0rQQQo", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "ROWAN (WILLIAM)", district: "FAR SOUTHEAST SIDE", address: "11546 S. Avenue L
-Chicago, IL 60617", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/f8111b7628944c59a7d84e798f664db51.JPG?itok=Xz0rQQQo", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "RUSSELL (MARTIN) SQUARE", district: "FAR SOUTHEAST SIDE", address: "3045 E. 83rd St.
-Chicago, IL 60617", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/0e2653dcf20140d28509372d1f94fab31.JPG?itok=3bwrIY17", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "RUSSELL (MARTIN) SQUARE", district: "FAR SOUTHEAST SIDE", address: "3045 E. 83rd St.
-Chicago, IL 60617", facility: "FOOTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/0e2653dcf20140d28509372d1f94fab31.JPG?itok=3bwrIY17", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "RUSSELL (MARTIN) SQUARE", district: "FAR SOUTHEAST SIDE", address: "3045 E. 83rd St.
-Chicago, IL 60617", facility: "SOCCER", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/0e2653dcf20140d28509372d1f94fab31.JPG?itok=3bwrIY17", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "RUSSELL (MARTIN) SQUARE", district: "FAR SOUTHEAST SIDE", address: "3045 E. 83rd St.
-Chicago, IL 60617", facility: "FITNESS CENTER", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/0e2653dcf20140d28509372d1f94fab31.JPG?itok=3bwrIY17", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "RUSSELL (MARTIN) SQUARE", district: "FAR SOUTHEAST SIDE", address: "3045 E. 83rd St.
-Chicago, IL 60617", facility: "GYMNASIUM", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/0e2653dcf20140d28509372d1f94fab31.JPG?itok=3bwrIY17", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "RUSSELL (MARTIN) SQUARE", district: "FAR SOUTHEAST SIDE", address: "3045 E. 83rd St.
-Chicago, IL 60617", facility: "BASEBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/0e2653dcf20140d28509372d1f94fab31.JPG?itok=3bwrIY17", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "RUSSELL (MARTIN) SQUARE", district: "FAR SOUTHEAST SIDE", address: "3045 E. 83rd St.
-Chicago, IL 60617", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/0e2653dcf20140d28509372d1f94fab31.JPG?itok=3bwrIY17", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "RUSSELL (MARTIN) SQUARE", district: "FAR SOUTHEAST SIDE", address: "3045 E. 83rd St.
-Chicago, IL 60617", facility: "POOL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/0e2653dcf20140d28509372d1f94fab31.JPG?itok=3bwrIY17", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "RUSSELL (MARTIN) SQUARE", district: "FAR SOUTHEAST SIDE", address: "3045 E. 83rd St.
-Chicago, IL 60617", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/0e2653dcf20140d28509372d1f94fab31.JPG?itok=3bwrIY17", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "RUSSELL (MARTIN) SQUARE", district: "FAR SOUTHEAST SIDE", address: "3045 E. 83rd St.
-Chicago, IL 60617", facility: "TENNIS", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/0e2653dcf20140d28509372d1f94fab31.JPG?itok=3bwrIY17", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "RUSSELL (MARTIN) SQUARE", district: "FAR SOUTHEAST SIDE", address: "3045 E. 83rd St.
-Chicago, IL 60617", facility: "FOOTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/0e2653dcf20140d28509372d1f94fab31.JPG?itok=3bwrIY17", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "RUTHERFORD SAYRE", district: "NORTHWEST SIDE", address: "6871 W. Belden Ave.
-Chicago, IL 60707", facility: "SOCCER", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/events/rutherford%20sayre%20fieldhouse.jpg?itok=LkCfpmYh", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "RUTHERFORD SAYRE", district: "NORTHWEST SIDE", address: "6871 W. Belden Ave.
-Chicago, IL 60707", facility: "FITNESS CENTER", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/events/rutherford%20sayre%20fieldhouse.jpg?itok=LkCfpmYh", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "RUTHERFORD SAYRE", district: "NORTHWEST SIDE", address: "6871 W. Belden Ave.
-Chicago, IL 60707", facility: "COMMUNITY GARDEN", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/events/rutherford%20sayre%20fieldhouse.jpg?itok=LkCfpmYh", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "RUTHERFORD SAYRE", district: "NORTHWEST SIDE", address: "6871 W. Belden Ave.
-Chicago, IL 60707", facility: "GYMNASIUM", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/events/rutherford%20sayre%20fieldhouse.jpg?itok=LkCfpmYh", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "RUTHERFORD SAYRE", district: "NORTHWEST SIDE", address: "6871 W. Belden Ave.
-Chicago, IL 60707", facility: "BASEBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/events/rutherford%20sayre%20fieldhouse.jpg?itok=LkCfpmYh", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "RUTHERFORD SAYRE", district: "NORTHWEST SIDE", address: "6871 W. Belden Ave.
-Chicago, IL 60707", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/events/rutherford%20sayre%20fieldhouse.jpg?itok=LkCfpmYh", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "RUTHERFORD SAYRE", district: "NORTHWEST SIDE", address: "6871 W. Belden Ave.
-Chicago, IL 60707", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/events/rutherford%20sayre%20fieldhouse.jpg?itok=LkCfpmYh", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "RUTHERFORD SAYRE", district: "NORTHWEST SIDE", address: "6871 W. Belden Ave.
-Chicago, IL 60707", facility: "ROLLER COURT", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/events/rutherford%20sayre%20fieldhouse.jpg?itok=LkCfpmYh", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "RUTHERFORD SAYRE", district: "NORTHWEST SIDE", address: "6871 W. Belden Ave.
-Chicago, IL 60707", facility: "TENNIS", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/events/rutherford%20sayre%20fieldhouse.jpg?itok=LkCfpmYh", hours: "6:00 AM - 11:00 PM"})
-
 park = Park.create!({name: "SACRAMENTO", district: "NORTH SIDE", address: "3520 N. Sacramento Ave.
 Chicago, IL 60618", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://www.playlsi.com/493cc2/globalassets/slideshows-design-files/playgrounds/sacramento-park/sacramentopark02_h.jpg?width=905&height=450&mode=crop", hours: "6:00 AM - 11:00 PM"})
 
@@ -4501,99 +3768,6 @@ Chicago, IL 60618", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "
 
 park = Park.create!({name: "SACRAMENTO", district: "NORTH SIDE", address: "3520 N. Sacramento Ave.
 Chicago, IL 60618", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://www.playlsi.com/493cc2/globalassets/slideshows-design-files/playgrounds/sacramento-park/sacramentopark02_h.jpg?width=905&height=450&mode=crop", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "SAUGANASH", district: "FAR NORTH SIDE", address: "5861 N. Kostner Ave.
-Chicago, IL 60646", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/d00c37153d7f44b482ce1efb233d91161.jpg?itok=ZDoX6mQP", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "SAUGANASH", district: "FAR NORTH SIDE", address: "5861 N. Kostner Ave.
-Chicago, IL 60646", facility: "FOOTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/d00c37153d7f44b482ce1efb233d91161.jpg?itok=ZDoX6mQP", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "SAUGANASH", district: "FAR NORTH SIDE", address: "5861 N. Kostner Ave.
-Chicago, IL 60646", facility: "SOCCER", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/d00c37153d7f44b482ce1efb233d91161.jpg?itok=ZDoX6mQP", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "SAUGANASH", district: "FAR NORTH SIDE", address: "5861 N. Kostner Ave.
-Chicago, IL 60646", facility: "GYMNASIUM", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/d00c37153d7f44b482ce1efb233d91161.jpg?itok=ZDoX6mQP", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "SAUGANASH", district: "FAR NORTH SIDE", address: "5861 N. Kostner Ave.
-Chicago, IL 60646", facility: "BASEBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/d00c37153d7f44b482ce1efb233d91161.jpg?itok=ZDoX6mQP", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "SAUGANASH", district: "FAR NORTH SIDE", address: "5861 N. Kostner Ave.
-Chicago, IL 60646", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/d00c37153d7f44b482ce1efb233d91161.jpg?itok=ZDoX6mQP", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "SAUGANASH", district: "FAR NORTH SIDE", address: "5861 N. Kostner Ave.
-Chicago, IL 60646", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/d00c37153d7f44b482ce1efb233d91161.jpg?itok=ZDoX6mQP", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "SAUGANASH", district: "FAR NORTH SIDE", address: "5861 N. Kostner Ave.
-Chicago, IL 60646", facility: "TENNIS", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/d00c37153d7f44b482ce1efb233d91161.jpg?itok=ZDoX6mQP", hours: "6:00 AM - 9:00 PM"})
-
-park = Park.create!({name: "SCHREIBER", district: "FAR NORTH SIDE", address: "1552 W. Schreiber Ave.
-Chicago, IL 60626", facility: "FOOTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/overview%20of%20schreiber%20park.JPG?itok=8Z66Q-_p", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "SCHREIBER", district: "FAR NORTH SIDE", address: "1552 W. Schreiber Ave.
-Chicago, IL 60626", facility: "SOCCER", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/overview%20of%20schreiber%20park.JPG?itok=8Z66Q-_p", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "SCHREIBER", district: "FAR NORTH SIDE", address: "1552 W. Schreiber Ave.
-Chicago, IL 60626", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/overview%20of%20schreiber%20park.JPG?itok=8Z66Q-_p", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "SCHREIBER", district: "FAR NORTH SIDE", address: "1552 W. Schreiber Ave.
-Chicago, IL 60626", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/overview%20of%20schreiber%20park.JPG?itok=8Z66Q-_p", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "SCHREIBER", district: "FAR NORTH SIDE", address: "1552 W. Schreiber Ave.
-Chicago, IL 60626", facility: "COMMUNITY GARDEN", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/overview%20of%20schreiber%20park.JPG?itok=8Z66Q-_p", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "SCOTTSDALE", district: "FAR SOUTHWEST SIDE", address: "4637 W. 83rd St.
-Chicago, IL 60652", facility: "BOXING", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/cbcf1788906f44b0bef7e4f5af39436d1.JPG?itok=PwxWG2CL", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "SCOTTSDALE", district: "FAR SOUTHWEST SIDE", address: "4637 W. 83rd St.
-Chicago, IL 60652", facility: "FOOTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/cbcf1788906f44b0bef7e4f5af39436d1.JPG?itok=PwxWG2CL", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "SCOTTSDALE", district: "FAR SOUTHWEST SIDE", address: "4637 W. 83rd St.
-Chicago, IL 60652", facility: "SOCCER", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/cbcf1788906f44b0bef7e4f5af39436d1.JPG?itok=PwxWG2CL", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "SCOTTSDALE", district: "FAR SOUTHWEST SIDE", address: "4637 W. 83rd St.
-Chicago, IL 60652", facility: "FITNESS CENTER", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/cbcf1788906f44b0bef7e4f5af39436d1.JPG?itok=PwxWG2CL", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "SCOTTSDALE", district: "FAR SOUTHWEST SIDE", address: "4637 W. 83rd St.
-Chicago, IL 60652", facility: "GYMNASIUM", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/cbcf1788906f44b0bef7e4f5af39436d1.JPG?itok=PwxWG2CL", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "SCOTTSDALE", district: "FAR SOUTHWEST SIDE", address: "4637 W. 83rd St.
-Chicago, IL 60652", facility: "BASEBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/cbcf1788906f44b0bef7e4f5af39436d1.JPG?itok=PwxWG2CL", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "SCOTTSDALE", district: "FAR SOUTHWEST SIDE", address: "4637 W. 83rd St.
-Chicago, IL 60652", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/cbcf1788906f44b0bef7e4f5af39436d1.JPG?itok=PwxWG2CL", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "SCOTTSDALE", district: "FAR SOUTHWEST SIDE", address: "4637 W. 83rd St.
-Chicago, IL 60652", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/cbcf1788906f44b0bef7e4f5af39436d1.JPG?itok=PwxWG2CL", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "SENN (NICHOLAS)", district: "FAR NORTH SIDE", address: "5887 N. Ridge Ave.
-Chicago, IL 60660", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/camps%202021/senn%20basketball%20camp%202021%20-3-.jpg?itok=hFsWHPrB", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "SENN (NICHOLAS)", district: "FAR NORTH SIDE", address: "5887 N. Ridge Ave.
-Chicago, IL 60660", facility: "TURF FIELD", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/camps%202021/senn%20basketball%20camp%202021%20-3-.jpg?itok=hFsWHPrB", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "SENN (NICHOLAS)", district: "FAR NORTH SIDE", address: "5887 N. Ridge Ave.
-Chicago, IL 60660", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/camps%202021/senn%20basketball%20camp%202021%20-3-.jpg?itok=hFsWHPrB", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "SENN (NICHOLAS)", district: "FAR NORTH SIDE", address: "5887 N. Ridge Ave.
-Chicago, IL 60660", facility: "TENNIS", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/camps%202021/senn%20basketball%20camp%202021%20-3-.jpg?itok=hFsWHPrB", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "SENN (NICHOLAS)", district: "FAR NORTH SIDE", address: "5887 N. Ridge Ave.
-Chicago, IL 60660", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/camps%202021/senn%20basketball%20camp%202021%20-3-.jpg?itok=hFsWHPrB", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "SEWARD (WILLIAM)", district: "CENTRAL CHICAGO", address: "375 W. Elm St.
-Chicago, IL 60610", facility: "BOXING", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/seward-slideshow_fountain.jpg?itok=T-_Ym3my", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "SEWARD (WILLIAM)", district: "CENTRAL CHICAGO", address: "375 W. Elm St.
-Chicago, IL 60610", facility: "GYMNASIUM", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/seward-slideshow_fountain.jpg?itok=T-_Ym3my", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "SEWARD (WILLIAM)", district: "CENTRAL CHICAGO", address: "375 W. Elm St.
-Chicago, IL 60610", facility: "BASEBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/seward-slideshow_fountain.jpg?itok=T-_Ym3my", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "SEWARD (WILLIAM)", district: "CENTRAL CHICAGO", address: "375 W. Elm St.
-Chicago, IL 60610", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/seward-slideshow_fountain.jpg?itok=T-_Ym3my", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "SEWARD (WILLIAM)", district: "CENTRAL CHICAGO", address: "375 W. Elm St.
-Chicago, IL 60610", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/seward-slideshow_fountain.jpg?itok=T-_Ym3my", hours: "6:00 AM - 11:00 PM"})
 
 park = Park.create!({name: "SHABBONA", district: "NORTHWEST SIDE", address: "6935 W. Addison St.
 Chicago, IL 60634", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/park/shabbona%20park/use-shabbona-park-playground.jpg?itok=0hQoqkVX", hours: "6:00 AM - 11:00 PM"})
@@ -4630,15 +3804,6 @@ Chicago, IL 60634", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "
 
 park = Park.create!({name: "SHABBONA", district: "NORTHWEST SIDE", address: "6935 W. Addison St.
 Chicago, IL 60634", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/park/shabbona%20park/use-shabbona-park-playground.jpg?itok=0hQoqkVX", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "SHEDD (JOHN G.)", district: "NORTHWEST SIDE", address: "3660 W. 23rd St.
-Chicago, IL 60623", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/Shedd_Exterior_Slideshow01.jpg?itok=4rWGS7l_", hours: "6:00 AM - 10:00 PM"})
-
-park = Park.create!({name: "SHEIL (BERNARD) COMM. CTR.", district: "NORTH SIDE", address: "3505 N. Southport Ave.
-Chicago, IL 60657", facility: "GYMNASIUM", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/70f14ad0bc864a1292829219e8e9d5081.jpg?itok=8zW6OHJg", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "SHEIL (BERNARD) COMM. CTR.", district: "NORTH SIDE", address: "3505 N. Southport Ave.
-Chicago, IL 60657", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/70f14ad0bc864a1292829219e8e9d5081.jpg?itok=8zW6OHJg", hours: "6:00 AM - 11:00 PM"})
 
 park = Park.create!({name: "SHERIDAN (PHILIP HENRY)", district: "WEST SIDE", address: "910 S. Aberdeen St.
 Chicago, IL 60607", facility: "BOXING", indoor: "YES", outdoor: "NO", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/70f14ad0bc864a1292829219e8e9d5081.jpg?itok=8zW6OHJg", hours: "6:00 AM - 11:00 PM"})
@@ -4811,15 +3976,6 @@ Chicago, IL 60628", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "
 park = Park.create!({name: "SMITH (WENDELL)", district: "FAR SOUTHEAST SIDE", address: "9912 S. Princeton Ave.
 Chicago, IL 60628", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/368055ddceae4622b57439a1aeaa9e981.JPG?itok=TdUVmU8I", hours: "7:00 AM - 11:00 PM"})
 
-park = Park.create!({name: "SNOWBERRY", district: "WEST SIDE", address: "1851 W. Huron St.
-Chicago, IL 60622", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/30fd64b73a7b4e748f5219957e2e757a1.JPG?itok=p-fFQA6F", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "SNOWBERRY", district: "WEST SIDE", address: "1851 W. Huron St.
-Chicago, IL 60622", facility: "COMMUNITY GARDEN", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/30fd64b73a7b4e748f5219957e2e757a1.JPG?itok=p-fFQA6F", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "SOUTH SHORE CULTL. CTR.", district: "SOUTH SIDE", address: "7059 S. South Shore Dr.
-Chicago, IL 60649", facility: "BEACH", indoor: "NO", outdoor: "YES", image: "https://cdn.wedding-spot.com/__sized__/images/venues/5744/South-Shore-Cultural-Center---Chicago-Park-District-Chicago-IL-8678167b-0c90-4e69-969e-7c776f7ef9bd-818c52eca3fc4bc981be79f06d243cde.png", hours: "6:00 AM - 11:00 PM"})
-
 park = Park.create!({name: "STANTON (EDWIN)", district: "CENTRAL CHICAGO", address: "618 W. Scott St.
 Chicago, IL 60610", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/bd142497b604475d8504a89bdc58bba71.jpg?itok=jgmnYOPP", hours: "6:00 AM - 11:00 PM"})
 
@@ -4843,27 +3999,6 @@ Chicago, IL 60610", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "
 
 park = Park.create!({name: "STANTON (EDWIN)", district: "CENTRAL CHICAGO", address: "618 W. Scott St.
 Chicago, IL 60610", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/bd142497b604475d8504a89bdc58bba71.jpg?itok=jgmnYOPP", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "STARS & STRIPES", district: "SOUTHWEST SIDE", address: "5100 S. Nordica Ave.
-Chicago, IL 60638", facility: "BASEBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/a2ee79ecceaa4894ba1337867531fab81.JPG?itok=sjh1NQLi", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "STARS & STRIPES", district: "SOUTHWEST SIDE", address: "5100 S. Nordica Ave.
-Chicago, IL 60638", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/a2ee79ecceaa4894ba1337867531fab81.JPG?itok=sjh1NQLi", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "STARS & STRIPES", district: "SOUTHWEST SIDE", address: "5100 S. Nordica Ave.
-Chicago, IL 60638", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/a2ee79ecceaa4894ba1337867531fab81.JPG?itok=sjh1NQLi", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "STARS & STRIPES", district: "SOUTHWEST SIDE", address: "5100 S. Nordica Ave.
-Chicago, IL 60638", facility: "VOLLEYBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/a2ee79ecceaa4894ba1337867531fab81.JPG?itok=sjh1NQLi", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "STOUT (FLORENCE)", district: "SOUTH SIDE", address: "5446 S. Greenwood Ave.
-Chicago, IL 60615", facility: "BASEBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/244c8923f1e54d5db4f91656df1a67101.JPG?itok=eeJ380hZ", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "STOUT (FLORENCE)", district: "SOUTH SIDE", address: "5446 S. Greenwood Ave.
-Chicago, IL 60615", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/244c8923f1e54d5db4f91656df1a67101.JPG?itok=eeJ380hZ", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "STOUT (FLORENCE)", district: "SOUTH SIDE", address: "5446 S. Greenwood Ave.
-Chicago, IL 60615", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/244c8923f1e54d5db4f91656df1a67101.JPG?itok=eeJ380hZ", hours: "6:00 AM - 11:00 PM"})
 
 park = Park.create!({name: "STROHACKER (HOWARD)", district: "SOUTHWEST SIDE", address: "4347 W. 54th St.
 Chicago, IL 60632", facility: "FOOTBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/A%20great%20%20community%20concert.JPG?itok=Idu3u73e", hours: "6:00 AM - 11:00 PM"})
@@ -4933,12 +4068,6 @@ Chicago, IL 60609", facility: "SOFTBALL", indoor: "NO", outdoor: "YES", image: "
 
 park = Park.create!({name: "TAYLOR-LAURIDSEN (JOHN, EMIL)", district: "SOUTHWEST SIDE", address: "704 W. 42nd St.
 Chicago, IL 60609", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/DayCamp2016TaylorLauridsen-33.jpg?itok=cCo6d6hc", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "THROOP (AMOS GAGER)", district: "FAR SOUTHWEST SIDE", address: "1811 S. Throop St.
-Chicago, IL 60608", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/1efdc98ed3244e968ab4e53b91754ed91.jpg?itok=htRcY5bw", hours: "6:00 AM - 11:00 PM"})
-
-park = Park.create!({name: "THROOP (AMOS GAGER)", district: "FAR SOUTHWEST SIDE", address: "1811 S. Throop St.
-Chicago, IL 60608", facility: "PLAYGROUND", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/1efdc98ed3244e968ab4e53b91754ed91.jpg?itok=htRcY5bw", hours: "6:00 AM - 11:00 PM"})
 
 park = Park.create!({name: "TILL-MOBLEY (MAMIE)", district: "SOUTH SIDE", address: "6404 S. Ellis Ave.
 Chicago, IL 60637", facility: "BASKETBALL", indoor: "NO", outdoor: "YES", image: "https://assets.chicagoparkdistrict.com/s3fs-public/styles/558x314/public/images/locations/17521bd372d44e96b845662e53a0aedf1.JPG?itok=II99qmFW", hours: "6:00 AM - 9:00 PM"})
